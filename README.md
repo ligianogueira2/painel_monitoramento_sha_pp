@@ -12,7 +12,7 @@
 </p>
 
 <div align="center">
-<h4> | <a href="#contexto">Contexto e objetivo</a> | <a href="#estrutura">Estrutura de pastas</a> | <a href="#requisitos">Requisitos</a> | <a href="#uml">Diagrama de classes (UML)</a> | <a href="#padroes">Padrões de Projeto</a> | <a href="#ferramentas">Ferramentas</a> | <a href="#implementacao">Implementação</a> | <a href="#execucao">Como executar</a> | <a href="#progresso">Progresso</a> | <a href="#creditos">Créditos</a> |</h4>
+<h4> | <a href="#contexto">Contexto e objetivo</a> | <a href="#estrutura">Estrutura de pastas</a> | <a href="#requisitos">Requisitos</a> | <a href="#uml">Diagrama de classes (UML)</a> | <a href="#padroes">Padrões de Projeto</a> | <a href="#ferramentas">Ferramentas</a> | <a href="#implementacao">Implementação</a> | <a href="#execucao">Execução</a> | <a href="#progresso">Progresso</a> | <a href="#creditos">Créditos</a> |</h4>
 </div>
 
 <a href="https://imgbox.com/3tZuCnVg" target="_blank"><img src="https://images2.imgbox.com/42/88/3tZuCnVg_o.png" alt="image host" height="5px" width="900px"/></a>
@@ -164,7 +164,7 @@ Esta seção descreve os passos necessários para compilar e executar o Painel d
 bem como integrá-lo a diretórios de imagens geradas por projetos externos de hidrômetros.
 </p>
 
-<h3>➔ Pré-requisitos</h3>
+<h4>➔ Pré-requisitos</h4>
 
 <ul>
     <li>Sistema Operacional: Windows (PowerShell) ou Linux</li>
@@ -172,14 +172,14 @@ bem como integrá-lo a diretórios de imagens geradas por projetos externos de h
     <li>Git (opcional, para clonar o repositório)</li>
 </ul>
 
-<h3>➔ Estrutura esperada</h3>
+<h4>➔ Estrutura esperada</h4>
 
 <p>
 O painel não depende da execução direta dos projetos de hidrômetro.
 Ele apenas consome as imagens geradas por eles, desde que estejam organizadas em diretórios.
 </p>
 
-<h3>➔ Compilação</h3>
+<h4>➔ Compilação</h4>
 
 <p>No diretório raiz do projeto, execute o comando:</p>
 
@@ -195,7 +195,7 @@ Em ambientes Windows (PowerShell), utilize:
 g++ -std=c++17 -Iinclude (Get-ChildItem -Recurse src -Filter *.cpp | ForEach-Object { $_.FullName }) -o pmsha
 </pre>
 
-<h3>➔ Execução</h3>
+<h4>➔ Execução</h4>
 
 <p>
 Após a compilação, execute o painel com:
@@ -218,7 +218,7 @@ Durante a execução, o sistema:
     <li>Registra todas as ações no log do sistema.</li>
 </ul>
 
-<h3>➔ Configuração dos Diretórios de SHAs</h3>
+<h4>➔ Configuração dos Diretórios de SHAs</h4>
 
 <p>
 Os diretórios de imagens dos SHAs são definidos diretamente no código (<code>main.cpp</code>),
@@ -241,7 +241,7 @@ fachada.monitorarDiretorioSHA(
 Cada diretório representa um SHA distinto em funcionamento.
 </p>
 
-<h3>➔ Saída esperada</h3>
+<h4>➔ Saída esperada</h4>
 
 <p>
 Ao executar o sistema, o console exibirá logs semelhantes a:
@@ -258,7 +258,6 @@ Esses logs demonstram que o painel detectou imagens reais, interpretou as leitur
 e realizou o monitoramento de múltiplos SHAs simultaneamente.
 </p>
 
-blockquote>
   <p>⚠️ <b>Uso de OCR Stub (Implementação Temporária)</b></p>
 
   <p>
