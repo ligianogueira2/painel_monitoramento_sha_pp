@@ -12,7 +12,7 @@
 </p>
 
 <div align="center">
-<h4> | <a href="#contexto">Contexto e objetivo</a> | <a href="#estrutura">Estrutura de pastas</a> | <a href="#requisitos">Requisitos</a> | <a href="#uml">Diagrama de classes (UML)</a> | <a href="#padroes">Padrões de Projeto</a> | <a href="#ferramentas">Ferramentas</a> | <a href="#implementacao">Implementação</a> | <a href="#progresso">Progresso</a> | <a href="#creditos">Créditos</a> |</h4>
+<h4> | <a href="#contexto">Contexto e objetivo</a> | <a href="#estrutura">Estrutura de pastas</a> | <a href="#requisitos">Requisitos</a> | <a href="#uml">Diagrama de classes (UML)</a> | <a href="#padroes">Padrões de Projeto</a> | <a href="#ferramentas">Ferramentas</a> | <a href="#implementacao">Implementação</a> | <a href="#execucao">Como executar</a> | <a href="#progresso">Progresso</a> | <a href="#creditos">Créditos</a> |</h4>
 </div>
 
 <a href="https://imgbox.com/3tZuCnVg" target="_blank"><img src="https://images2.imgbox.com/42/88/3tZuCnVg_o.png" alt="image host" height="5px" width="900px"/></a>
@@ -88,15 +88,6 @@ painel_monitoramento_sha_pp/
 
 <p>A arquitetura do projeto foi modelada usando um diagrama de classes da Linguagem de Modelagem Unificada (UML). Esta representação visual ilustra a estrutura do sistema, mostrando como as classes se relacionam e interagem para simular o hidrômetro.</p>
 
-<p>O diagrama destaca o relacionamento de Composição, onde a classe Controladora atua como a orquestradora central, possuindo e gerenciando instâncias das classes Entrada, Hidrometro e Display para executar a simulação de ponta a ponta. </p>
-
-<ul>
-  <li> <b>Entrada:</b> responsável por ler os parâmetros de configuração de um arquivo de texto (parametros.txt). Ela gerencia a vazão e a pressão, podendo fornecer valores fixos ou aleatórios e, assim, modela a dinâmica de fornecimento de água do sistema; </li>
-  <li> <b>Hidrômetro:</b> é a classe principal de medição. Ela mantém o registro do volume de água total e calcular o incremento de volume a cada ciclo de simulação; </li>
-  <li> <b>Display:</b> responsável pela parte visual. Ela formata e exibe os dados de medição em uma imagem com cores e formatação específicas, simulando o mostrador de um hidrômetro real; </li>
-  <li> <b>Controladora:</b> é o "maestro" do sistema. É a Controladora que cria e gerencia as instâncias de Entrada, Hidrometro e Display. Ela executa o loop principal da simulação, obtendo dados e atualizando o estado do hidrômetro a cada segundo. </li>
-</ul>
-
 <ul>
   <h4>➔ UML do projeto: </h4> 
   </ul> 
@@ -119,7 +110,6 @@ painel_monitoramento_sha_pp/
 | **DAO**                  | SGU                    | Persistência desacoplada         |
 | **Builder**              | SGU                    | Criação de usuários              |
 | **Adapter**              | Envio de e-mail        | Isolar bibliotecas externas      |
-
 
 <a href="https://imgbox.com/3tZuCnVg" target="_blank"><img src="https://images2.imgbox.com/42/88/3tZuCnVg_o.png" alt="image host" height="5px" width="900px"/></a>
 
@@ -166,9 +156,131 @@ painel_monitoramento_sha_pp/
 
 <a href="https://imgbox.com/3tZuCnVg" target="_blank"><img src="https://images2.imgbox.com/42/88/3tZuCnVg_o.png" alt="image host" height="5px" width="900px"/></a>
 
+
+<h2 id="execucao"> ▶️ COMO EXECUTAR O PROJETO </h2>
+
+<p>
+Esta seção descreve os passos necessários para compilar e executar o Painel de Monitoramento SHA (PMSHA) localmente,
+bem como integrá-lo a diretórios de imagens geradas por projetos externos de hidrômetros.
+</p>
+
+<h3>➔ Pré-requisitos</h3>
+
+<ul>
+    <li>Sistema Operacional: Windows (PowerShell) ou Linux</li>
+    <li>Compilador C++ compatível com o padrão <b>C++17</b> (g++, clang ou MSYS2)</li>
+    <li>Git (opcional, para clonar o repositório)</li>
+</ul>
+
+<h3>➔ Estrutura esperada</h3>
+
+<p>
+O painel não depende da execução direta dos projetos de hidrômetro.
+Ele apenas consome as imagens geradas por eles, desde que estejam organizadas em diretórios.
+</p>
+
+<h3>➔ Compilação</h3>
+
+<p>No diretório raiz do projeto, execute o comando:</p>
+
+<pre>
+g++ -std=c++17 -Iinclude src/**/*.cpp -o pmsha
+</pre>
+
+<p>
+Em ambientes Windows (PowerShell), utilize:
+</p>
+
+<pre>
+g++ -std=c++17 -Iinclude (Get-ChildItem -Recurse src -Filter *.cpp | ForEach-Object { $_.FullName }) -o pmsha
+</pre>
+
+<h3>➔ Execução</h3>
+
+<p>
+Após a compilação, execute o painel com:
+</p>
+
+<pre>
+./pmsha
+</pre>
+
+<p>
+Durante a execução, o sistema:
+</p>
+
+<ul>
+    <li>Inicializa a Fachada PMSHA;</li>
+    <li>Executa o CRUD de usuários (criação, consulta e definição de limites);</li>
+    <li>Monitora diretórios associados a diferentes SHAs;</li>
+    <li>Detecta automaticamente novas imagens;</li>
+    <li>Realiza a leitura do consumo (via stub);</li>
+    <li>Registra todas as ações no log do sistema.</li>
+</ul>
+
+<h3>➔ Configuração dos Diretórios de SHAs</h3>
+
+<p>
+Os diretórios de imagens dos SHAs são definidos diretamente no código (<code>main.cpp</code>),
+simulando a integração com hidrômetros externos.
+</p>
+
+<pre>
+fachada.monitorarDiretorioSHA(
+    1,
+    "C:/caminho/para/Medicoes_SHA_1"
+);
+
+fachada.monitorarDiretorioSHA(
+    2,
+    "C:/caminho/para/Medicoes_SHA_2"
+);
+</pre>
+
+<p>
+Cada diretório representa um SHA distinto em funcionamento.
+</p>
+
+<h3>➔ Saída esperada</h3>
+
+<p>
+Ao executar o sistema, o console exibirá logs semelhantes a:
+</p>
+
+<pre>
+[INFO] Monitorando diretorio do SHA ID: 1
+[INFO] Imagem detectada: leitura_001.png
+[INFO] Leitura realizada com sucesso. Valor lido (m3): 123.000000
+</pre>
+
+<p>
+Esses logs demonstram que o painel detectou imagens reais, interpretou as leituras
+e realizou o monitoramento de múltiplos SHAs simultaneamente.
+</p>
+
+blockquote>
+  <p>⚠️ <b>Uso de OCR Stub (Implementação Temporária)</b></p>
+
+  <p>
+    Para viabilizar o desenvolvimento incremental do sistema, este projeto utiliza uma
+    implementação <i>stub</i> de OCR (Reconhecimento Óptico de Caracteres).
+  </p>
+
+  <p>
+    O módulo de leitura por imagem está completamente integrado ao fluxo do Painel de Monitoramento,
+    sendo responsabilidade da classe <b>HidrometroParser</b>. Atualmente, a extração do valor de consumo
+    é simulada, permitindo validar toda a arquitetura e o processo de monitoramento.
+  </p>
+
+  <p>
+    🔄 Na próxima versão, o stub será substituído por uma implementação real de OCR
+    (ex.: Tesseract, OpenCV), <b>sem necessidade de alterações estruturais</b> no sistema.
+  </p>
+</blockquote>
+
+<a href="https://imgbox.com/3tZuCnVg" target="_blank"><img src="https://images2.imgbox.com/42/88/3tZuCnVg_o.png" alt="image host" height="5px" width="900px"/></a>
+
 <h2 id="progresso"> 📊 PROGRESSO DO PROJETO </h2>
-
-
 
 <h4>Progresso por Partes </h4>
 <ul>
@@ -184,12 +296,13 @@ painel_monitoramento_sha_pp/
 | Envio de E-mail (Adapter)           | ░░░░░░░░░░ 10%  |
 </ul>
 
-<h4>Progresso por partes </h4>
+<h4>Progresso Geral </h4>
 <ul>
- Progresso Geral do Projeto
 
 ██████████░░░░░░░░░░░░░░░░░░░░ 65%
 </ul>
+
+<a href="https://imgbox.com/3tZuCnVg" target="_blank"><img src="https://images2.imgbox.com/42/88/3tZuCnVg_o.png" alt="image host" height="5px" width="900px"/></a>
 
 <h2 id="creditos"> &#11088 CRÉDITOS</h2>
 
