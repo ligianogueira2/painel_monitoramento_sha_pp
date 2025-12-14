@@ -1,0 +1,47 @@
+[2025-12-12 20:32:14] [INFO] Fachada PMSHA inicializada
+[2025-12-12 20:32:14] [INFO] Criando novo usuário/conta
+[2025-12-12 20:32:14] [INFO] Consultando usuário ID: 1
+[2025-12-12 20:32:14] [INFO] Definindo limite de alerta para usuário ID: 1 | Limite: 150.000000
+[2025-12-12 20:32:14] [INFO] Fachada PMSHA finalizada
+[2025-12-13 13:57:13] [INFO] Fachada PMSHA inicializada
+[2025-12-13 13:57:13] [INFO] Criando novo usuario/conta
+[2025-12-13 13:57:13] [INFO] Consultando usuario ID: 1
+[2025-12-13 13:57:13] [INFO] Definindo limite de alerta para usuario ID: 1 | Limite: 150.000000
+[2025-12-13 13:57:13] [INFO] Fachada PMSHA finalizada
+[2025-12-13 13:58:34] [INFO] Fachada PMSHA inicializada
+[2025-12-13 13:58:34] [INFO] Criando novo usuario/conta
+[2025-12-13 13:58:34] [INFO] Consultando usuario ID: 1
+[2025-12-13 13:58:34] [INFO] Definindo limite de alerta para usuario ID: 1 | Limite: 150.000000
+[2025-12-13 13:58:34] [INFO] Iniciando leitura por imagem para usuario ID: 1
+[2025-12-13 13:58:34] [INFO] HidrometroParser avaliando imagem: imagens/hidrometro_teste.png
+[2025-12-13 13:58:34] [INFO] Realizando leitura de hidrômetro (stub) para imagem: imagens/hidrometro_teste.png
+[2025-12-13 13:58:34] [INFO] Leitura realizada com sucesso. Valor lido (m3): 123.000000
+[2025-12-13 13:58:34] [INFO] Processo de leitura por imagem finalizado
+[2025-12-13 13:58:34] [INFO] Fachada PMSHA finalizada
+[2025-12-14 13:07:32] [INFO] Fachada PMSHA inicializada
+[2025-12-14 13:07:32] [INFO] Criando novo usuario/conta
+[2025-12-14 13:07:32] [INFO] Consultando usuario ID: 1
+[2025-12-14 13:07:32] [INFO] Definindo limite de alerta para usuario ID: 1 | Limite: 150.000000
+[2025-12-14 13:07:32] [INFO] Monitorando diretorio do SHA ID: 1
+[2025-12-14 13:07:32] [INFO] Imagem detectada: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_001.png
+[2025-12-14 13:07:32] [INFO] Iniciando leitura por imagem para SHA ID: 1
+[2025-12-14 13:07:32] [INFO] HidrometroParser avaliando imagem: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_001.png
+[2025-12-14 13:07:32] [INFO] Realizando leitura de hidrometro (stub) para imagem: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_001.png
+[2025-12-14 13:07:32] [INFO] Leitura realizada com sucesso. Valor lido (m3): 123.000000
+[2025-12-14 13:07:32] [INFO] Imagem detectada: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_002.png
+[2025-12-14 13:07:32] [INFO] Iniciando leitura por imagem para SHA ID: 1
+[2025-12-14 13:07:32] [INFO] HidrometroParser avaliando imagem: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_002.png
+[2025-12-14 13:07:32] [INFO] Realizando leitura de hidrometro (stub) para imagem: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_002.png
+[2025-12-14 13:07:32] [INFO] Leitura realizada com sucesso. Valor lido (m3): 123.000000
+[2025-12-14 13:07:32] [INFO] Monitorando diretorio do SHA ID: 2
+[2025-12-14 13:07:32] [INFO] Imagem detectada: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_001.png
+[2025-12-14 13:07:32] [INFO] Iniciando leitura por imagem para SHA ID: 2
+[2025-12-14 13:07:32] [INFO] HidrometroParser avaliando imagem: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_001.png
+[2025-12-14 13:07:32] [INFO] Realizando leitura de hidrometro (stub) para imagem: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_001.png
+[2025-12-14 13:07:32] [INFO] Leitura realizada com sucesso. Valor lido (m3): 123.000000
+[2025-12-14 13:07:32] [INFO] Imagem detectada: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_002.png
+[2025-12-14 13:07:32] [INFO] Iniciando leitura por imagem para SHA ID: 2
+[2025-12-14 13:07:32] [INFO] HidrometroParser avaliando imagem: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_002.png
+[2025-12-14 13:07:32] [INFO] Realizando leitura de hidrometro (stub) para imagem: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_002.png
+[2025-12-14 13:07:32] [INFO] Leitura realizada com sucesso. Valor lido (m3): 123.000000
+[2025-12-14 13:07:32] [INFO] Fachada PMSHA finalizada
