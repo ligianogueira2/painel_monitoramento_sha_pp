@@ -45,3 +45,1014 @@
 [2025-12-14 13:07:32] [INFO] Realizando leitura de hidrometro (stub) para imagem: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_002.png
 [2025-12-14 13:07:32] [INFO] Leitura realizada com sucesso. Valor lido (m3): 123.000000
 [2025-12-14 13:07:32] [INFO] Fachada PMSHA finalizada
+[2025-12-14 15:17:25] [INFO] Fachada PMSHA inicializada
+[2025-12-14 15:17:25] [INFO] Criando novo usuario/conta
+[2025-12-14 15:17:25] [INFO] Consultando usuario ID: 1
+[2025-12-14 15:17:25] [INFO] Definindo limite de alerta para usuario ID: 1 | Limite: 150.000000
+[2025-12-14 15:17:25] [INFO] Monitorando diretorio do SHA ID: 1
+[2025-12-14 15:17:25] [INFO] Imagem detectada: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_001.png
+[2025-12-14 15:17:25] [INFO] Iniciando leitura por imagem para SHA ID: 1
+[2025-12-14 15:17:25] [INFO] HidrometroParser avaliando imagem: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_001.png
+[2025-12-14 15:17:25] [INFO] Realizando leitura de hidrometro (stub) para imagem: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_001.png
+[2025-12-14 15:17:25] [INFO] Leitura realizada com sucesso. Valor lido (m3): 123.000000
+[2025-12-14 15:17:25] [INFO] Imagem detectada: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_002.png
+[2025-12-14 15:17:25] [INFO] Iniciando leitura por imagem para SHA ID: 1
+[2025-12-14 15:17:25] [INFO] HidrometroParser avaliando imagem: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_002.png
+[2025-12-14 15:17:25] [INFO] Realizando leitura de hidrometro (stub) para imagem: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_002.png
+[2025-12-14 15:17:25] [INFO] Leitura realizada com sucesso. Valor lido (m3): 123.000000
+[2025-12-14 15:17:25] [INFO] Monitorando diretorio do SHA ID: 2
+[2025-12-14 15:17:25] [INFO] Imagem detectada: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_001.png
+[2025-12-14 15:17:25] [INFO] Iniciando leitura por imagem para SHA ID: 2
+[2025-12-14 15:17:25] [INFO] HidrometroParser avaliando imagem: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_001.png
+[2025-12-14 15:17:25] [INFO] Realizando leitura de hidrometro (stub) para imagem: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_001.png
+[2025-12-14 15:17:25] [INFO] Leitura realizada com sucesso. Valor lido (m3): 123.000000
+[2025-12-14 15:17:25] [INFO] Imagem detectada: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_002.png
+[2025-12-14 15:17:25] [INFO] Iniciando leitura por imagem para SHA ID: 2
+[2025-12-14 15:17:25] [INFO] HidrometroParser avaliando imagem: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_002.png
+[2025-12-14 15:17:25] [INFO] Realizando leitura de hidrometro (stub) para imagem: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_002.png
+[2025-12-14 15:17:25] [INFO] Leitura realizada com sucesso. Valor lido (m3): 123.000000
+[2025-12-14 15:17:25] [INFO] Fachada PMSHA finalizada
+[2025-12-14 15:20:31] [INFO] Fachada PMSHA inicializada
+[2025-12-14 15:20:31] [INFO] Criando novo usuario/conta
+[2025-12-14 15:20:31] [INFO] Consultando usuario ID: 1
+[2025-12-14 15:20:31] [INFO] Definindo limite de alerta para usuario ID: 1 | Limite: 150.000000
+[2025-12-14 15:20:31] [INFO] Monitorando diretorio do SHA ID: 1
+[2025-12-14 15:20:31] [INFO] Imagem detectada: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_001.png
+[2025-12-14 15:20:31] [INFO] Iniciando leitura por imagem para SHA ID: 1
+[2025-12-14 15:20:31] [INFO] HidrometroParser avaliando imagem: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_001.png
+[2025-12-14 15:20:31] [INFO] Realizando leitura de hidrometro (stub) para imagem: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_001.png
+[2025-12-14 15:20:31] [INFO] Leitura realizada com sucesso. Valor lido (m3): 123.000000
+[2025-12-14 15:20:31] [INFO] Imagem detectada: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_002.png
+[2025-12-14 15:20:31] [INFO] Iniciando leitura por imagem para SHA ID: 1
+[2025-12-14 15:20:31] [INFO] HidrometroParser avaliando imagem: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_002.png
+[2025-12-14 15:20:31] [INFO] Realizando leitura de hidrometro (stub) para imagem: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_002.png
+[2025-12-14 15:20:31] [INFO] Leitura realizada com sucesso. Valor lido (m3): 123.000000
+[2025-12-14 15:20:31] [INFO] Monitorando diretorio do SHA ID: 2
+[2025-12-14 15:20:31] [INFO] Imagem detectada: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_001.png
+[2025-12-14 15:20:31] [INFO] Iniciando leitura por imagem para SHA ID: 2
+[2025-12-14 15:20:31] [INFO] HidrometroParser avaliando imagem: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_001.png
+[2025-12-14 15:20:31] [INFO] Realizando leitura de hidrometro (stub) para imagem: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_001.png
+[2025-12-14 15:20:31] [INFO] Leitura realizada com sucesso. Valor lido (m3): 123.000000
+[2025-12-14 15:20:31] [INFO] Imagem detectada: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_002.png
+[2025-12-14 15:20:31] [INFO] Iniciando leitura por imagem para SHA ID: 2
+[2025-12-14 15:20:31] [INFO] HidrometroParser avaliando imagem: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_002.png
+[2025-12-14 15:20:31] [INFO] Realizando leitura de hidrometro (stub) para imagem: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_002.png
+[2025-12-14 15:20:31] [INFO] Leitura realizada com sucesso. Valor lido (m3): 123.000000
+[2025-12-14 15:20:31] [INFO] Fachada PMSHA finalizada
+[2025-12-17 06:05:13] [INFO] Fachada PMSHA inicializada
+[2025-12-17 06:05:13] [INFO] Criando novo usuario/conta
+[2025-12-17 06:05:13] [INFO] Consultando usuario ID: 1
+[2025-12-17 06:05:13] [INFO] Definindo limite de alerta para usuario ID: 1 | Limite: 150.000000
+[2025-12-17 06:05:13] [INFO] Monitorando diretorio do SHA ID: 1
+[2025-12-17 06:05:13] [INFO] Imagem detectada: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_001.png
+[2025-12-17 06:05:13] [INFO] Iniciando leitura por imagem para SHA ID: 1
+[2025-12-17 06:05:13] [INFO] HidrometroParser avaliando imagem: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_001.png
+[2025-12-17 06:05:13] [INFO] Realizando leitura de hidrometro para imagem: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_001.png
+[2025-12-17 06:05:13] [INFO] Leitura realizada com sucesso. Valor lido (m3): 123.000000
+[2025-12-17 06:05:13] [INFO] Imagem detectada: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_002.png
+[2025-12-17 06:05:13] [INFO] Iniciando leitura por imagem para SHA ID: 1
+[2025-12-17 06:05:13] [INFO] HidrometroParser avaliando imagem: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_002.png
+[2025-12-17 06:05:13] [INFO] Realizando leitura de hidrometro para imagem: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_002.png
+[2025-12-17 06:05:13] [INFO] Leitura realizada com sucesso. Valor lido (m3): 123.000000
+[2025-12-17 06:05:13] [INFO] Monitorando diretorio do SHA ID: 2
+[2025-12-17 06:05:13] [INFO] Imagem detectada: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_001.png
+[2025-12-17 06:05:13] [INFO] Iniciando leitura por imagem para SHA ID: 2
+[2025-12-17 06:05:13] [INFO] HidrometroParser avaliando imagem: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_001.png
+[2025-12-17 06:05:13] [INFO] Realizando leitura de hidrometro para imagem: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_001.png
+[2025-12-17 06:05:13] [INFO] Leitura realizada com sucesso. Valor lido (m3): 123.000000
+[2025-12-17 06:05:13] [INFO] Imagem detectada: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_002.png
+[2025-12-17 06:05:13] [INFO] Iniciando leitura por imagem para SHA ID: 2
+[2025-12-17 06:05:13] [INFO] HidrometroParser avaliando imagem: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_002.png
+[2025-12-17 06:05:13] [INFO] Realizando leitura de hidrometro para imagem: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_002.png
+[2025-12-17 06:05:13] [INFO] Leitura realizada com sucesso. Valor lido (m3): 123.000000
+[2025-12-17 06:05:13] [INFO] Fachada PMSHA finalizada
+[2025-12-17 06:14:15] [INFO] Fachada PMSHA inicializada
+[2025-12-17 06:14:15] [INFO] Criando novo usuario/conta
+[2025-12-17 06:14:15] [INFO] Consultando usuario ID: 1
+[2025-12-17 06:14:15] [INFO] Definindo limite de alerta para usuario ID: 1 | Limite: 150.000000
+[2025-12-17 06:14:15] [INFO] Monitorando diretorio do SHA ID: 1
+[2025-12-17 06:14:15] [INFO] Imagem detectada: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_001.png
+[2025-12-17 06:14:15] [INFO] Iniciando leitura por imagem para SHA ID: 1
+[2025-12-17 06:14:15] [INFO] HidrometroParser avaliando imagem: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_001.png
+[2025-12-17 06:14:15] [INFO] Realizando leitura de hidrometro para imagem: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_001.png
+[2025-12-17 06:14:15] [INFO] Leitura realizada com sucesso. Valor lido (m3): 123.000000
+[2025-12-17 06:14:15] [INFO] Imagem detectada: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_002.png
+[2025-12-17 06:14:15] [INFO] Iniciando leitura por imagem para SHA ID: 1
+[2025-12-17 06:14:15] [INFO] HidrometroParser avaliando imagem: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_002.png
+[2025-12-17 06:14:15] [INFO] Realizando leitura de hidrometro para imagem: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_002.png
+[2025-12-17 06:14:15] [INFO] Leitura realizada com sucesso. Valor lido (m3): 123.000000
+[2025-12-17 06:14:15] [INFO] Monitorando diretorio do SHA ID: 2
+[2025-12-17 06:14:15] [INFO] Imagem detectada: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_001.png
+[2025-12-17 06:14:15] [INFO] Iniciando leitura por imagem para SHA ID: 2
+[2025-12-17 06:14:15] [INFO] HidrometroParser avaliando imagem: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_001.png
+[2025-12-17 06:14:15] [INFO] Realizando leitura de hidrometro para imagem: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_001.png
+[2025-12-17 06:14:15] [INFO] Leitura realizada com sucesso. Valor lido (m3): 123.000000
+[2025-12-17 06:14:15] [INFO] Imagem detectada: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_002.png
+[2025-12-17 06:14:15] [INFO] Iniciando leitura por imagem para SHA ID: 2
+[2025-12-17 06:14:15] [INFO] HidrometroParser avaliando imagem: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_002.png
+[2025-12-17 06:14:15] [INFO] Realizando leitura de hidrometro para imagem: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_002.png
+[2025-12-17 06:14:15] [INFO] Leitura realizada com sucesso. Valor lido (m3): 123.000000
+[2025-12-17 06:14:15] [INFO] Fachada PMSHA finalizada
+[2025-12-17 06:28:37] [INFO] Fachada PMSHA inicializada
+[2025-12-17 06:28:37] [INFO] Criando novo usuario/conta
+[2025-12-17 06:28:37] [INFO] Consultando usuario ID: 1
+[2025-12-17 06:28:37] [INFO] Definindo limite de alerta para usuario ID: 1 | Limite: 150.000000
+[2025-12-17 06:28:37] [INFO] Monitorando diretorio do SHA ID: 1
+[2025-12-17 06:28:37] [INFO] Imagem detectada: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_001.png
+[2025-12-17 06:28:37] [INFO] Iniciando leitura por imagem para SHA ID: 1
+[2025-12-17 06:28:37] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 06:28:37] [INFO] HidrometroParser avaliando imagem: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_001.png
+[2025-12-17 06:28:37] [INFO] OCR REAL (Tesseract) lendo imagem: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_001.png
+[2025-12-17 06:28:37] [INFO] Leitura realizada com sucesso. Valor lido (m3): 123.000000
+[2025-12-17 06:28:37] [INFO] Imagem detectada: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_002.png
+[2025-12-17 06:28:37] [INFO] Iniciando leitura por imagem para SHA ID: 1
+[2025-12-17 06:28:37] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 06:28:37] [INFO] HidrometroParser avaliando imagem: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_002.png
+[2025-12-17 06:28:37] [INFO] OCR REAL (Tesseract) lendo imagem: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_002.png
+[2025-12-17 06:28:37] [INFO] Leitura realizada com sucesso. Valor lido (m3): 123.000000
+[2025-12-17 06:28:37] [INFO] Monitorando diretorio do SHA ID: 2
+[2025-12-17 06:28:37] [INFO] Imagem detectada: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_001.png
+[2025-12-17 06:28:37] [INFO] Iniciando leitura por imagem para SHA ID: 2
+[2025-12-17 06:28:37] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 06:28:37] [INFO] HidrometroParser avaliando imagem: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_001.png
+[2025-12-17 06:28:37] [INFO] OCR REAL (Tesseract) lendo imagem: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_001.png
+[2025-12-17 06:28:37] [INFO] Leitura realizada com sucesso. Valor lido (m3): 123.000000
+[2025-12-17 06:28:37] [INFO] Imagem detectada: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_002.png
+[2025-12-17 06:28:37] [INFO] Iniciando leitura por imagem para SHA ID: 2
+[2025-12-17 06:28:37] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 06:28:37] [INFO] HidrometroParser avaliando imagem: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_002.png
+[2025-12-17 06:28:37] [INFO] OCR REAL (Tesseract) lendo imagem: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_002.png
+[2025-12-17 06:28:37] [INFO] Leitura realizada com sucesso. Valor lido (m3): 123.000000
+[2025-12-17 06:28:37] [INFO] Fachada PMSHA finalizada
+[2025-12-17 06:52:14] [INFO] Fachada PMSHA inicializada
+[2025-12-17 06:52:14] [INFO] Criando novo usuario/conta
+[2025-12-17 06:52:14] [INFO] Consultando usuario ID: 1
+[2025-12-17 06:52:14] [INFO] Definindo limite de alerta para usuario ID: 1 | Limite: 150.000000
+[2025-12-17 06:52:14] [INFO] Monitorando diretorio do SHA ID: 1
+[2025-12-17 06:52:14] [INFO] Imagem detectada: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_001.png
+[2025-12-17 06:52:14] [INFO] Iniciando leitura por imagem para SHA ID: 1
+[2025-12-17 06:52:14] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 06:52:14] [INFO] HidrometroParser avaliando imagem: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_001.png
+[2025-12-17 06:52:14] [INFO] OCR REAL (Tesseract) lendo imagem: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_001.png
+[2025-12-17 06:52:14] [ERROR] Erro ao executar Tesseract
+[2025-12-17 06:52:14] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 06:52:14] [INFO] Imagem detectada: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_002.png
+[2025-12-17 06:52:14] [INFO] Iniciando leitura por imagem para SHA ID: 1
+[2025-12-17 06:52:14] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 06:52:14] [INFO] HidrometroParser avaliando imagem: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_002.png
+[2025-12-17 06:52:14] [INFO] OCR REAL (Tesseract) lendo imagem: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_002.png
+[2025-12-17 06:52:14] [ERROR] Erro ao executar Tesseract
+[2025-12-17 06:52:14] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 06:52:14] [INFO] Monitorando diretorio do SHA ID: 2
+[2025-12-17 06:52:14] [INFO] Imagem detectada: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_001.png
+[2025-12-17 06:52:14] [INFO] Iniciando leitura por imagem para SHA ID: 2
+[2025-12-17 06:52:14] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 06:52:14] [INFO] HidrometroParser avaliando imagem: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_001.png
+[2025-12-17 06:52:14] [INFO] OCR REAL (Tesseract) lendo imagem: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_001.png
+[2025-12-17 06:52:14] [ERROR] Erro ao executar Tesseract
+[2025-12-17 06:52:14] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 06:52:14] [INFO] Imagem detectada: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_002.png
+[2025-12-17 06:52:14] [INFO] Iniciando leitura por imagem para SHA ID: 2
+[2025-12-17 06:52:14] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 06:52:14] [INFO] HidrometroParser avaliando imagem: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_002.png
+[2025-12-17 06:52:14] [INFO] OCR REAL (Tesseract) lendo imagem: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_002.png
+[2025-12-17 06:52:14] [ERROR] Erro ao executar Tesseract
+[2025-12-17 06:52:14] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 06:52:14] [INFO] Fachada PMSHA finalizada
+[2025-12-17 07:03:23] [INFO] Fachada PMSHA inicializada
+[2025-12-17 07:03:23] [INFO] Criando novo usuario/conta
+[2025-12-17 07:03:23] [INFO] Consultando usuario ID: 1
+[2025-12-17 07:03:23] [INFO] Definindo limite de alerta para usuario ID: 1 | Limite: 150.000000
+[2025-12-17 07:03:23] [INFO] Monitorando diretorio do SHA ID: 1
+[2025-12-17 07:03:23] [INFO] Imagem detectada: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_001.png
+[2025-12-17 07:03:23] [INFO] Iniciando leitura por imagem para SHA ID: 1
+[2025-12-17 07:03:23] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 07:03:23] [INFO] HidrometroParser avaliando imagem: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_001.png
+[2025-12-17 07:03:23] [INFO] OCR REAL (Tesseract) lendo imagem: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_001.png
+[2025-12-17 07:03:23] [ERROR] Erro ao executar Tesseract
+[2025-12-17 07:03:23] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 07:03:23] [INFO] Imagem detectada: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_002.png
+[2025-12-17 07:03:23] [INFO] Iniciando leitura por imagem para SHA ID: 1
+[2025-12-17 07:03:23] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 07:03:23] [INFO] HidrometroParser avaliando imagem: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_002.png
+[2025-12-17 07:03:23] [INFO] OCR REAL (Tesseract) lendo imagem: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_002.png
+[2025-12-17 07:03:23] [ERROR] Erro ao executar Tesseract
+[2025-12-17 07:03:23] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 07:03:23] [INFO] Monitorando diretorio do SHA ID: 2
+[2025-12-17 07:03:23] [INFO] Imagem detectada: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_001.png
+[2025-12-17 07:03:23] [INFO] Iniciando leitura por imagem para SHA ID: 2
+[2025-12-17 07:03:23] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 07:03:23] [INFO] HidrometroParser avaliando imagem: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_001.png
+[2025-12-17 07:03:23] [INFO] OCR REAL (Tesseract) lendo imagem: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_001.png
+[2025-12-17 07:03:23] [ERROR] Erro ao executar Tesseract
+[2025-12-17 07:03:23] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 07:03:23] [INFO] Imagem detectada: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_002.png
+[2025-12-17 07:03:23] [INFO] Iniciando leitura por imagem para SHA ID: 2
+[2025-12-17 07:03:23] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 07:03:23] [INFO] HidrometroParser avaliando imagem: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_002.png
+[2025-12-17 07:03:23] [INFO] OCR REAL (Tesseract) lendo imagem: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_002.png
+[2025-12-17 07:03:23] [ERROR] Erro ao executar Tesseract
+[2025-12-17 07:03:23] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 07:03:23] [INFO] Fachada PMSHA finalizada
+[2025-12-17 07:10:23] [INFO] Fachada PMSHA inicializada
+[2025-12-17 07:10:23] [INFO] Criando novo usuario/conta
+[2025-12-17 07:10:23] [INFO] Consultando usuario ID: 1
+[2025-12-17 07:10:23] [INFO] Definindo limite de alerta para usuario ID: 1 | Limite: 150.000000
+[2025-12-17 07:10:23] [INFO] Monitorando diretorio do SHA ID: 1
+[2025-12-17 07:10:23] [INFO] Imagem detectada: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_001.png
+[2025-12-17 07:10:23] [INFO] Iniciando leitura por imagem para SHA ID: 1
+[2025-12-17 07:10:23] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 07:10:23] [INFO] HidrometroParser avaliando imagem: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_001.png
+[2025-12-17 07:10:23] [INFO] OCR REAL (Tesseract) lendo imagem: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_001.png
+[2025-12-17 07:10:23] [DEBUG] Comando OCR: tesseract "C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_001.png" ocr_temp -l eng --psm 7 -c tessedit_char_whitelist=0123456789.
+[2025-12-17 07:10:23] [ERROR] Erro ao executar Tesseract
+[2025-12-17 07:10:23] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 07:10:23] [INFO] Imagem detectada: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_002.png
+[2025-12-17 07:10:23] [INFO] Iniciando leitura por imagem para SHA ID: 1
+[2025-12-17 07:10:23] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 07:10:23] [INFO] HidrometroParser avaliando imagem: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_002.png
+[2025-12-17 07:10:23] [INFO] OCR REAL (Tesseract) lendo imagem: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_002.png
+[2025-12-17 07:10:23] [DEBUG] Comando OCR: tesseract "C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_002.png" ocr_temp -l eng --psm 7 -c tessedit_char_whitelist=0123456789.
+[2025-12-17 07:10:23] [ERROR] Erro ao executar Tesseract
+[2025-12-17 07:10:23] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 07:10:23] [INFO] Monitorando diretorio do SHA ID: 2
+[2025-12-17 07:10:23] [INFO] Imagem detectada: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_001.png
+[2025-12-17 07:10:23] [INFO] Iniciando leitura por imagem para SHA ID: 2
+[2025-12-17 07:10:23] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 07:10:23] [INFO] HidrometroParser avaliando imagem: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_001.png
+[2025-12-17 07:10:23] [INFO] OCR REAL (Tesseract) lendo imagem: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_001.png
+[2025-12-17 07:10:23] [DEBUG] Comando OCR: tesseract "C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_001.png" ocr_temp -l eng --psm 7 -c tessedit_char_whitelist=0123456789.
+[2025-12-17 07:10:23] [ERROR] Erro ao executar Tesseract
+[2025-12-17 07:10:23] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 07:10:23] [INFO] Imagem detectada: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_002.png
+[2025-12-17 07:10:23] [INFO] Iniciando leitura por imagem para SHA ID: 2
+[2025-12-17 07:10:23] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 07:10:23] [INFO] HidrometroParser avaliando imagem: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_002.png
+[2025-12-17 07:10:23] [INFO] OCR REAL (Tesseract) lendo imagem: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_002.png
+[2025-12-17 07:10:23] [DEBUG] Comando OCR: tesseract "C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_002.png" ocr_temp -l eng --psm 7 -c tessedit_char_whitelist=0123456789.
+[2025-12-17 07:10:23] [ERROR] Erro ao executar Tesseract
+[2025-12-17 07:10:23] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 07:10:23] [INFO] Fachada PMSHA finalizada
+[2025-12-17 07:12:23] [INFO] Fachada PMSHA inicializada
+[2025-12-17 07:12:23] [INFO] Criando novo usuario/conta
+[2025-12-17 07:12:23] [INFO] Consultando usuario ID: 1
+[2025-12-17 07:12:23] [INFO] Definindo limite de alerta para usuario ID: 1 | Limite: 150.000000
+[2025-12-17 07:12:23] [INFO] Monitorando diretorio do SHA ID: 1
+[2025-12-17 07:12:23] [INFO] Imagem detectada: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_001.png
+[2025-12-17 07:12:23] [INFO] Iniciando leitura por imagem para SHA ID: 1
+[2025-12-17 07:12:23] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 07:12:23] [INFO] HidrometroParser avaliando imagem: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_001.png
+[2025-12-17 07:12:23] [INFO] OCR REAL (Tesseract) lendo imagem: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_001.png
+[2025-12-17 07:12:23] [DEBUG] Comando OCR: "C:/Users/Ô_Ô/tesseract.exe" "C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_001.png" ocr_temp -l eng --psm 7 -c tessedit_char_whitelist=0123456789.
+[2025-12-17 07:12:24] [ERROR] Erro ao executar Tesseract
+[2025-12-17 07:12:24] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 07:12:24] [INFO] Imagem detectada: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_002.png
+[2025-12-17 07:12:24] [INFO] Iniciando leitura por imagem para SHA ID: 1
+[2025-12-17 07:12:24] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 07:12:24] [INFO] HidrometroParser avaliando imagem: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_002.png
+[2025-12-17 07:12:24] [INFO] OCR REAL (Tesseract) lendo imagem: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_002.png
+[2025-12-17 07:12:24] [DEBUG] Comando OCR: "C:/Users/Ô_Ô/tesseract.exe" "C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_002.png" ocr_temp -l eng --psm 7 -c tessedit_char_whitelist=0123456789.
+[2025-12-17 07:12:24] [ERROR] Erro ao executar Tesseract
+[2025-12-17 07:12:24] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 07:12:24] [INFO] Monitorando diretorio do SHA ID: 2
+[2025-12-17 07:12:24] [INFO] Imagem detectada: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_001.png
+[2025-12-17 07:12:24] [INFO] Iniciando leitura por imagem para SHA ID: 2
+[2025-12-17 07:12:24] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 07:12:24] [INFO] HidrometroParser avaliando imagem: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_001.png
+[2025-12-17 07:12:24] [INFO] OCR REAL (Tesseract) lendo imagem: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_001.png
+[2025-12-17 07:12:24] [DEBUG] Comando OCR: "C:/Users/Ô_Ô/tesseract.exe" "C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_001.png" ocr_temp -l eng --psm 7 -c tessedit_char_whitelist=0123456789.
+[2025-12-17 07:12:24] [ERROR] Erro ao executar Tesseract
+[2025-12-17 07:12:24] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 07:12:24] [INFO] Imagem detectada: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_002.png
+[2025-12-17 07:12:24] [INFO] Iniciando leitura por imagem para SHA ID: 2
+[2025-12-17 07:12:24] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 07:12:24] [INFO] HidrometroParser avaliando imagem: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_002.png
+[2025-12-17 07:12:24] [INFO] OCR REAL (Tesseract) lendo imagem: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_002.png
+[2025-12-17 07:12:24] [DEBUG] Comando OCR: "C:/Users/Ô_Ô/tesseract.exe" "C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_002.png" ocr_temp -l eng --psm 7 -c tessedit_char_whitelist=0123456789.
+[2025-12-17 07:12:24] [ERROR] Erro ao executar Tesseract
+[2025-12-17 07:12:24] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 07:12:24] [INFO] Fachada PMSHA finalizada
+[2025-12-17 07:25:49] [INFO] Fachada PMSHA inicializada
+[2025-12-17 07:25:49] [INFO] Criando novo usuario/conta
+[2025-12-17 07:25:49] [INFO] Consultando usuario ID: 1
+[2025-12-17 07:25:49] [INFO] Definindo limite de alerta para usuario ID: 1 | Limite: 150.000000
+[2025-12-17 07:25:49] [INFO] Monitorando diretorio do SHA ID: 1
+[2025-12-17 07:25:49] [INFO] Imagem detectada: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_001.png
+[2025-12-17 07:25:49] [INFO] Iniciando leitura por imagem para SHA ID: 1
+[2025-12-17 07:25:49] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 07:25:49] [INFO] HidrometroParser avaliando imagem: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_001.png
+[2025-12-17 07:25:49] [INFO] OCR REAL (Tesseract) lendo imagem: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_001.png
+[2025-12-17 07:25:49] [DEBUG] Comando OCR: "C:\Users\O_O\AppData\Local\Programs\Tesseract-OCR\tesseract.exe" "C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_001.png" "ocr_temp" -l eng --psm 7 -c tessedit_char_whitelist=0123456789.
+[2025-12-17 07:25:49] [ERROR] Erro ao executar Tesseract
+[2025-12-17 07:25:49] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 07:25:49] [INFO] Imagem detectada: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_002.png
+[2025-12-17 07:25:49] [INFO] Iniciando leitura por imagem para SHA ID: 1
+[2025-12-17 07:25:49] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 07:25:49] [INFO] HidrometroParser avaliando imagem: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_002.png
+[2025-12-17 07:25:49] [INFO] OCR REAL (Tesseract) lendo imagem: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_002.png
+[2025-12-17 07:25:49] [DEBUG] Comando OCR: "C:\Users\O_O\AppData\Local\Programs\Tesseract-OCR\tesseract.exe" "C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_002.png" "ocr_temp" -l eng --psm 7 -c tessedit_char_whitelist=0123456789.
+[2025-12-17 07:25:49] [ERROR] Erro ao executar Tesseract
+[2025-12-17 07:25:49] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 07:25:49] [INFO] Monitorando diretorio do SHA ID: 2
+[2025-12-17 07:25:49] [INFO] Imagem detectada: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_001.png
+[2025-12-17 07:25:49] [INFO] Iniciando leitura por imagem para SHA ID: 2
+[2025-12-17 07:25:49] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 07:25:49] [INFO] HidrometroParser avaliando imagem: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_001.png
+[2025-12-17 07:25:49] [INFO] OCR REAL (Tesseract) lendo imagem: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_001.png
+[2025-12-17 07:25:49] [DEBUG] Comando OCR: "C:\Users\O_O\AppData\Local\Programs\Tesseract-OCR\tesseract.exe" "C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_001.png" "ocr_temp" -l eng --psm 7 -c tessedit_char_whitelist=0123456789.
+[2025-12-17 07:25:49] [ERROR] Erro ao executar Tesseract
+[2025-12-17 07:25:49] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 07:25:49] [INFO] Imagem detectada: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_002.png
+[2025-12-17 07:25:49] [INFO] Iniciando leitura por imagem para SHA ID: 2
+[2025-12-17 07:25:49] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 07:25:49] [INFO] HidrometroParser avaliando imagem: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_002.png
+[2025-12-17 07:25:49] [INFO] OCR REAL (Tesseract) lendo imagem: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_002.png
+[2025-12-17 07:25:49] [DEBUG] Comando OCR: "C:\Users\O_O\AppData\Local\Programs\Tesseract-OCR\tesseract.exe" "C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_002.png" "ocr_temp" -l eng --psm 7 -c tessedit_char_whitelist=0123456789.
+[2025-12-17 07:25:49] [ERROR] Erro ao executar Tesseract
+[2025-12-17 07:25:49] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 07:25:49] [INFO] Fachada PMSHA finalizada
+[2025-12-17 07:31:57] [INFO] Fachada PMSHA inicializada
+[2025-12-17 07:31:57] [INFO] Criando novo usuario/conta
+[2025-12-17 07:31:57] [INFO] Consultando usuario ID: 1
+[2025-12-17 07:31:57] [INFO] Definindo limite de alerta para usuario ID: 1 | Limite: 150.000000
+[2025-12-17 07:31:57] [INFO] Monitorando diretorio do SHA ID: 1
+[2025-12-17 07:31:57] [INFO] Imagem detectada: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_001.png
+[2025-12-17 07:31:57] [INFO] Iniciando leitura por imagem para SHA ID: 1
+[2025-12-17 07:31:57] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 07:31:57] [INFO] HidrometroParser avaliando imagem: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_001.png
+[2025-12-17 07:31:57] [INFO] OCR REAL (Tesseract) lendo imagem: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_001.png
+[2025-12-17 07:31:57] [DEBUG] Executando OCR: "C:\Users\O_O\AppData\Local\Programs\Tesseract-OCR\tesseract.exe" "C:\temp_ocr\entrada.png" "C:\temp_ocr\saida" -l eng --psm 7 -c tessedit_char_whitelist=0123456789.
+[2025-12-17 07:31:57] [ERROR] Erro ao executar Tesseract
+[2025-12-17 07:31:57] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 07:31:57] [INFO] Imagem detectada: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_002.png
+[2025-12-17 07:31:57] [INFO] Iniciando leitura por imagem para SHA ID: 1
+[2025-12-17 07:31:57] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 07:31:57] [INFO] HidrometroParser avaliando imagem: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_002.png
+[2025-12-17 07:31:57] [INFO] OCR REAL (Tesseract) lendo imagem: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_002.png
+[2025-12-17 07:31:57] [DEBUG] Executando OCR: "C:\Users\O_O\AppData\Local\Programs\Tesseract-OCR\tesseract.exe" "C:\temp_ocr\entrada.png" "C:\temp_ocr\saida" -l eng --psm 7 -c tessedit_char_whitelist=0123456789.
+[2025-12-17 07:31:57] [ERROR] Erro ao executar Tesseract
+[2025-12-17 07:31:57] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 07:31:57] [INFO] Monitorando diretorio do SHA ID: 2
+[2025-12-17 07:31:57] [INFO] Imagem detectada: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_001.png
+[2025-12-17 07:31:57] [INFO] Iniciando leitura por imagem para SHA ID: 2
+[2025-12-17 07:31:57] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 07:31:57] [INFO] HidrometroParser avaliando imagem: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_001.png
+[2025-12-17 07:31:57] [INFO] OCR REAL (Tesseract) lendo imagem: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_001.png
+[2025-12-17 07:31:57] [DEBUG] Executando OCR: "C:\Users\O_O\AppData\Local\Programs\Tesseract-OCR\tesseract.exe" "C:\temp_ocr\entrada.png" "C:\temp_ocr\saida" -l eng --psm 7 -c tessedit_char_whitelist=0123456789.
+[2025-12-17 07:31:57] [ERROR] Erro ao executar Tesseract
+[2025-12-17 07:31:57] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 07:31:57] [INFO] Imagem detectada: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_002.png
+[2025-12-17 07:31:57] [INFO] Iniciando leitura por imagem para SHA ID: 2
+[2025-12-17 07:31:57] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 07:31:57] [INFO] HidrometroParser avaliando imagem: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_002.png
+[2025-12-17 07:31:57] [INFO] OCR REAL (Tesseract) lendo imagem: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_002.png
+[2025-12-17 07:31:57] [DEBUG] Executando OCR: "C:\Users\O_O\AppData\Local\Programs\Tesseract-OCR\tesseract.exe" "C:\temp_ocr\entrada.png" "C:\temp_ocr\saida" -l eng --psm 7 -c tessedit_char_whitelist=0123456789.
+[2025-12-17 07:31:57] [ERROR] Erro ao executar Tesseract
+[2025-12-17 07:31:57] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 07:31:57] [INFO] Fachada PMSHA finalizada
+[2025-12-17 07:34:18] [INFO] Fachada PMSHA inicializada
+[2025-12-17 07:34:18] [INFO] Criando novo usuario/conta
+[2025-12-17 07:34:18] [INFO] Consultando usuario ID: 1
+[2025-12-17 07:34:18] [INFO] Definindo limite de alerta para usuario ID: 1 | Limite: 150.000000
+[2025-12-17 07:34:18] [INFO] Monitorando diretorio do SHA ID: 1
+[2025-12-17 07:34:18] [INFO] Imagem detectada: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_001.png
+[2025-12-17 07:34:18] [INFO] Iniciando leitura por imagem para SHA ID: 1
+[2025-12-17 07:34:18] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 07:34:18] [INFO] HidrometroParser avaliando imagem: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_001.png
+[2025-12-17 07:34:18] [INFO] OCR REAL (Tesseract) lendo imagem: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_001.png
+[2025-12-17 07:34:18] [DEBUG] Executando OCR: ""C:\Users\O_O\AppData\Local\Programs\Tesseract-OCR\tesseract.exe" "C:\temp_ocr\entrada.png" "C:\temp_ocr\saida" -l eng --psm 7 -c tessedit_char_whitelist=0123456789."
+[2025-12-17 07:34:18] [ERROR] Erro ao executar Tesseract. Verifique se o caminho do .exe esta correto.
+[2025-12-17 07:34:18] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 07:34:18] [INFO] Imagem detectada: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_002.png
+[2025-12-17 07:34:18] [INFO] Iniciando leitura por imagem para SHA ID: 1
+[2025-12-17 07:34:18] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 07:34:18] [INFO] HidrometroParser avaliando imagem: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_002.png
+[2025-12-17 07:34:18] [INFO] OCR REAL (Tesseract) lendo imagem: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_002.png
+[2025-12-17 07:34:18] [DEBUG] Executando OCR: ""C:\Users\O_O\AppData\Local\Programs\Tesseract-OCR\tesseract.exe" "C:\temp_ocr\entrada.png" "C:\temp_ocr\saida" -l eng --psm 7 -c tessedit_char_whitelist=0123456789."
+[2025-12-17 07:34:18] [ERROR] Erro ao executar Tesseract. Verifique se o caminho do .exe esta correto.
+[2025-12-17 07:34:18] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 07:34:18] [INFO] Monitorando diretorio do SHA ID: 2
+[2025-12-17 07:34:18] [INFO] Imagem detectada: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_001.png
+[2025-12-17 07:34:18] [INFO] Iniciando leitura por imagem para SHA ID: 2
+[2025-12-17 07:34:18] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 07:34:18] [INFO] HidrometroParser avaliando imagem: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_001.png
+[2025-12-17 07:34:18] [INFO] OCR REAL (Tesseract) lendo imagem: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_001.png
+[2025-12-17 07:34:18] [DEBUG] Executando OCR: ""C:\Users\O_O\AppData\Local\Programs\Tesseract-OCR\tesseract.exe" "C:\temp_ocr\entrada.png" "C:\temp_ocr\saida" -l eng --psm 7 -c tessedit_char_whitelist=0123456789."
+[2025-12-17 07:34:18] [ERROR] Erro ao executar Tesseract. Verifique se o caminho do .exe esta correto.
+[2025-12-17 07:34:18] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 07:34:18] [INFO] Imagem detectada: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_002.png
+[2025-12-17 07:34:18] [INFO] Iniciando leitura por imagem para SHA ID: 2
+[2025-12-17 07:34:18] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 07:34:18] [INFO] HidrometroParser avaliando imagem: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_002.png
+[2025-12-17 07:34:18] [INFO] OCR REAL (Tesseract) lendo imagem: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_002.png
+[2025-12-17 07:34:18] [DEBUG] Executando OCR: ""C:\Users\O_O\AppData\Local\Programs\Tesseract-OCR\tesseract.exe" "C:\temp_ocr\entrada.png" "C:\temp_ocr\saida" -l eng --psm 7 -c tessedit_char_whitelist=0123456789."
+[2025-12-17 07:34:18] [ERROR] Erro ao executar Tesseract. Verifique se o caminho do .exe esta correto.
+[2025-12-17 07:34:18] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 07:34:18] [INFO] Fachada PMSHA finalizada
+[2025-12-17 07:57:32] [INFO] Fachada PMSHA inicializada
+[2025-12-17 07:57:32] [INFO] Criando novo usuario/conta
+[2025-12-17 07:57:32] [INFO] Consultando usuario ID: 1
+[2025-12-17 07:57:32] [INFO] Definindo limite de alerta para usuario ID: 1 | Limite: 150.000000
+[2025-12-17 07:57:32] [INFO] Monitorando diretorio do SHA ID: 1
+[2025-12-17 07:57:32] [INFO] Imagem detectada: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_001.png
+[2025-12-17 07:57:32] [INFO] Iniciando leitura por imagem para SHA ID: 1
+[2025-12-17 07:57:32] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 07:57:32] [INFO] HidrometroParser avaliando imagem: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_001.png
+[2025-12-17 07:57:32] [INFO] OCR REAL (Tesseract) lendo imagem: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_001.png
+[2025-12-17 07:57:32] [DEBUG] Comando Final: ""C:\Program Files\Tesseract-OCR\tesseract.exe" "C:\temp_ocr\entrada.png" "C:\temp_ocr\saida" -l eng --psm 7 -c tessedit_char_whitelist=0123456789."
+[2025-12-17 07:57:32] [ERROR] Tesseract falhou ao processar a imagem.
+[2025-12-17 07:57:32] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 07:57:32] [INFO] Imagem detectada: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_002.png
+[2025-12-17 07:57:32] [INFO] Iniciando leitura por imagem para SHA ID: 1
+[2025-12-17 07:57:32] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 07:57:32] [INFO] HidrometroParser avaliando imagem: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_002.png
+[2025-12-17 07:57:32] [INFO] OCR REAL (Tesseract) lendo imagem: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_002.png
+[2025-12-17 07:57:32] [DEBUG] Comando Final: ""C:\Program Files\Tesseract-OCR\tesseract.exe" "C:\temp_ocr\entrada.png" "C:\temp_ocr\saida" -l eng --psm 7 -c tessedit_char_whitelist=0123456789."
+[2025-12-17 07:57:32] [ERROR] Tesseract falhou ao processar a imagem.
+[2025-12-17 07:57:32] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 07:57:32] [INFO] Monitorando diretorio do SHA ID: 2
+[2025-12-17 07:57:32] [INFO] Imagem detectada: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_001.png
+[2025-12-17 07:57:32] [INFO] Iniciando leitura por imagem para SHA ID: 2
+[2025-12-17 07:57:32] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 07:57:32] [INFO] HidrometroParser avaliando imagem: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_001.png
+[2025-12-17 07:57:32] [INFO] OCR REAL (Tesseract) lendo imagem: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_001.png
+[2025-12-17 07:57:33] [DEBUG] Comando Final: ""C:\Program Files\Tesseract-OCR\tesseract.exe" "C:\temp_ocr\entrada.png" "C:\temp_ocr\saida" -l eng --psm 7 -c tessedit_char_whitelist=0123456789."
+[2025-12-17 07:57:33] [ERROR] Tesseract falhou ao processar a imagem.
+[2025-12-17 07:57:33] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 07:57:33] [INFO] Imagem detectada: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_002.png
+[2025-12-17 07:57:33] [INFO] Iniciando leitura por imagem para SHA ID: 2
+[2025-12-17 07:57:33] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 07:57:33] [INFO] HidrometroParser avaliando imagem: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_002.png
+[2025-12-17 07:57:33] [INFO] OCR REAL (Tesseract) lendo imagem: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_002.png
+[2025-12-17 07:57:33] [DEBUG] Comando Final: ""C:\Program Files\Tesseract-OCR\tesseract.exe" "C:\temp_ocr\entrada.png" "C:\temp_ocr\saida" -l eng --psm 7 -c tessedit_char_whitelist=0123456789."
+[2025-12-17 07:57:33] [ERROR] Tesseract falhou ao processar a imagem.
+[2025-12-17 07:57:33] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 07:57:33] [INFO] Fachada PMSHA finalizada
+[2025-12-17 07:58:33] [INFO] Fachada PMSHA inicializada
+[2025-12-17 07:58:33] [INFO] Criando novo usuario/conta
+[2025-12-17 07:58:33] [INFO] Consultando usuario ID: 1
+[2025-12-17 07:58:33] [INFO] Definindo limite de alerta para usuario ID: 1 | Limite: 150.000000
+[2025-12-17 07:58:33] [INFO] Monitorando diretorio do SHA ID: 1
+[2025-12-17 07:58:33] [INFO] Imagem detectada: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_001.png
+[2025-12-17 07:58:33] [INFO] Iniciando leitura por imagem para SHA ID: 1
+[2025-12-17 07:58:33] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 07:58:33] [INFO] HidrometroParser avaliando imagem: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_001.png
+[2025-12-17 07:58:33] [INFO] OCR REAL (Tesseract) lendo imagem: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_001.png
+[2025-12-17 07:58:33] [DEBUG] Comando Executado: C:\PROGRA~1\Tesseract-OCR\tesseract.exe "C:\temp_ocr\entrada.png" "C:\temp_ocr\saida" -l eng --psm 7 -c tessedit_char_whitelist=0123456789.
+[2025-12-17 07:58:33] [WARN] Falha com caminho curto, tentando formato alternativo...
+[2025-12-17 07:58:33] [ERROR] Tesseract nao encontrado ou erro de permissao.
+[2025-12-17 07:58:33] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 07:58:33] [INFO] Imagem detectada: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_002.png
+[2025-12-17 07:58:33] [INFO] Iniciando leitura por imagem para SHA ID: 1
+[2025-12-17 07:58:33] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 07:58:33] [INFO] HidrometroParser avaliando imagem: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_002.png
+[2025-12-17 07:58:33] [INFO] OCR REAL (Tesseract) lendo imagem: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_002.png
+[2025-12-17 07:58:33] [DEBUG] Comando Executado: C:\PROGRA~1\Tesseract-OCR\tesseract.exe "C:\temp_ocr\entrada.png" "C:\temp_ocr\saida" -l eng --psm 7 -c tessedit_char_whitelist=0123456789.
+[2025-12-17 07:58:33] [WARN] Falha com caminho curto, tentando formato alternativo...
+[2025-12-17 07:58:33] [ERROR] Tesseract nao encontrado ou erro de permissao.
+[2025-12-17 07:58:33] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 07:58:33] [INFO] Monitorando diretorio do SHA ID: 2
+[2025-12-17 07:58:33] [INFO] Imagem detectada: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_001.png
+[2025-12-17 07:58:33] [INFO] Iniciando leitura por imagem para SHA ID: 2
+[2025-12-17 07:58:33] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 07:58:33] [INFO] HidrometroParser avaliando imagem: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_001.png
+[2025-12-17 07:58:33] [INFO] OCR REAL (Tesseract) lendo imagem: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_001.png
+[2025-12-17 07:58:33] [DEBUG] Comando Executado: C:\PROGRA~1\Tesseract-OCR\tesseract.exe "C:\temp_ocr\entrada.png" "C:\temp_ocr\saida" -l eng --psm 7 -c tessedit_char_whitelist=0123456789.
+[2025-12-17 07:58:33] [WARN] Falha com caminho curto, tentando formato alternativo...
+[2025-12-17 07:58:33] [ERROR] Tesseract nao encontrado ou erro de permissao.
+[2025-12-17 07:58:33] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 07:58:33] [INFO] Imagem detectada: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_002.png
+[2025-12-17 07:58:33] [INFO] Iniciando leitura por imagem para SHA ID: 2
+[2025-12-17 07:58:33] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 07:58:33] [INFO] HidrometroParser avaliando imagem: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_002.png
+[2025-12-17 07:58:33] [INFO] OCR REAL (Tesseract) lendo imagem: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_002.png
+[2025-12-17 07:58:33] [DEBUG] Comando Executado: C:\PROGRA~1\Tesseract-OCR\tesseract.exe "C:\temp_ocr\entrada.png" "C:\temp_ocr\saida" -l eng --psm 7 -c tessedit_char_whitelist=0123456789.
+[2025-12-17 07:58:33] [WARN] Falha com caminho curto, tentando formato alternativo...
+[2025-12-17 07:58:33] [ERROR] Tesseract nao encontrado ou erro de permissao.
+[2025-12-17 07:58:33] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 07:58:33] [INFO] Fachada PMSHA finalizada
+[2025-12-17 08:06:54] [INFO] Fachada PMSHA inicializada
+[2025-12-17 08:06:54] [INFO] Criando novo usuario/conta
+[2025-12-17 08:06:54] [INFO] Consultando usuario ID: 1
+[2025-12-17 08:06:54] [INFO] Definindo limite de alerta para usuario ID: 1 | Limite: 150.000000
+[2025-12-17 08:06:54] [INFO] Monitorando diretorio do SHA ID: 1
+[2025-12-17 08:06:54] [INFO] Imagem detectada: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_001.png
+[2025-12-17 08:06:54] [INFO] Iniciando leitura por imagem para SHA ID: 1
+[2025-12-17 08:06:54] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 08:06:54] [INFO] HidrometroParser avaliando imagem: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_001.png
+[2025-12-17 08:06:54] [INFO] OCR REAL (Tesseract) lendo imagem: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_001.png
+[2025-12-17 08:06:54] [DEBUG] Executando OCR Local: .\tesseract\tesseract.exe "C:\temp_ocr\entrada.png" "C:\temp_ocr\saida" --tessdata-dir ".\tesseract\tessdata" -l eng --psm 7 -c tessedit_char_whitelist=0123456789.
+[2025-12-17 08:06:55] [ERROR] Erro ao executar Tesseract local. Verifique se os arquivos estao na pasta 'tesseract'
+[2025-12-17 08:06:55] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 08:06:55] [INFO] Imagem detectada: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_002.png
+[2025-12-17 08:06:55] [INFO] Iniciando leitura por imagem para SHA ID: 1
+[2025-12-17 08:06:55] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 08:06:55] [INFO] HidrometroParser avaliando imagem: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_002.png
+[2025-12-17 08:06:55] [INFO] OCR REAL (Tesseract) lendo imagem: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_002.png
+[2025-12-17 08:06:55] [DEBUG] Executando OCR Local: .\tesseract\tesseract.exe "C:\temp_ocr\entrada.png" "C:\temp_ocr\saida" --tessdata-dir ".\tesseract\tessdata" -l eng --psm 7 -c tessedit_char_whitelist=0123456789.
+[2025-12-17 08:06:55] [ERROR] Erro ao executar Tesseract local. Verifique se os arquivos estao na pasta 'tesseract'
+[2025-12-17 08:06:55] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 08:06:55] [INFO] Monitorando diretorio do SHA ID: 2
+[2025-12-17 08:06:55] [INFO] Imagem detectada: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_001.png
+[2025-12-17 08:06:55] [INFO] Iniciando leitura por imagem para SHA ID: 2
+[2025-12-17 08:06:55] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 08:06:55] [INFO] HidrometroParser avaliando imagem: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_001.png
+[2025-12-17 08:06:55] [INFO] OCR REAL (Tesseract) lendo imagem: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_001.png
+[2025-12-17 08:06:55] [DEBUG] Executando OCR Local: .\tesseract\tesseract.exe "C:\temp_ocr\entrada.png" "C:\temp_ocr\saida" --tessdata-dir ".\tesseract\tessdata" -l eng --psm 7 -c tessedit_char_whitelist=0123456789.
+[2025-12-17 08:06:55] [ERROR] Erro ao executar Tesseract local. Verifique se os arquivos estao na pasta 'tesseract'
+[2025-12-17 08:06:55] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 08:06:55] [INFO] Imagem detectada: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_002.png
+[2025-12-17 08:06:55] [INFO] Iniciando leitura por imagem para SHA ID: 2
+[2025-12-17 08:06:55] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 08:06:55] [INFO] HidrometroParser avaliando imagem: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_002.png
+[2025-12-17 08:06:55] [INFO] OCR REAL (Tesseract) lendo imagem: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_002.png
+[2025-12-17 08:06:55] [DEBUG] Executando OCR Local: .\tesseract\tesseract.exe "C:\temp_ocr\entrada.png" "C:\temp_ocr\saida" --tessdata-dir ".\tesseract\tessdata" -l eng --psm 7 -c tessedit_char_whitelist=0123456789.
+[2025-12-17 08:06:56] [ERROR] Erro ao executar Tesseract local. Verifique se os arquivos estao na pasta 'tesseract'
+[2025-12-17 08:06:56] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 08:06:56] [INFO] Fachada PMSHA finalizada
+[2025-12-17 08:07:56] [INFO] Fachada PMSHA inicializada
+[2025-12-17 08:07:56] [INFO] Criando novo usuario/conta
+[2025-12-17 08:07:56] [INFO] Consultando usuario ID: 1
+[2025-12-17 08:07:56] [INFO] Definindo limite de alerta para usuario ID: 1 | Limite: 150.000000
+[2025-12-17 08:07:56] [INFO] Monitorando diretorio do SHA ID: 1
+[2025-12-17 08:07:56] [INFO] Imagem detectada: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_001.png
+[2025-12-17 08:07:56] [INFO] Iniciando leitura por imagem para SHA ID: 1
+[2025-12-17 08:07:56] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 08:07:56] [INFO] HidrometroParser avaliando imagem: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_001.png
+[2025-12-17 08:07:56] [INFO] OCR REAL (Tesseract) lendo imagem: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_001.png
+[2025-12-17 08:07:56] [DEBUG] Executando: "".\tesseract\tesseract.exe" "C:\Users\Ô_Ô\Downloads\simulador_hidrometro_ligia\projeto_hidrometro_pp\Medicoes_202311250003_5\leitura_001.png" "C:\temp_ocr\saida" --tessdata-dir ".\tesseract\tessdata" -l eng --psm 7 -c tessedit_char_whitelist=0123456789."
+[2025-12-17 08:07:56] [ERROR] Tesseract nao conseguiu ler a imagem diretamente.
+[2025-12-17 08:07:56] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 08:07:56] [INFO] Imagem detectada: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_002.png
+[2025-12-17 08:07:56] [INFO] Iniciando leitura por imagem para SHA ID: 1
+[2025-12-17 08:07:56] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 08:07:56] [INFO] HidrometroParser avaliando imagem: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_002.png
+[2025-12-17 08:07:56] [INFO] OCR REAL (Tesseract) lendo imagem: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_002.png
+[2025-12-17 08:07:56] [DEBUG] Executando: "".\tesseract\tesseract.exe" "C:\Users\Ô_Ô\Downloads\simulador_hidrometro_ligia\projeto_hidrometro_pp\Medicoes_202311250003_5\leitura_002.png" "C:\temp_ocr\saida" --tessdata-dir ".\tesseract\tessdata" -l eng --psm 7 -c tessedit_char_whitelist=0123456789."
+[2025-12-17 08:07:56] [ERROR] Tesseract nao conseguiu ler a imagem diretamente.
+[2025-12-17 08:07:56] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 08:07:56] [INFO] Monitorando diretorio do SHA ID: 2
+[2025-12-17 08:07:56] [INFO] Imagem detectada: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_001.png
+[2025-12-17 08:07:56] [INFO] Iniciando leitura por imagem para SHA ID: 2
+[2025-12-17 08:07:56] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 08:07:56] [INFO] HidrometroParser avaliando imagem: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_001.png
+[2025-12-17 08:07:56] [INFO] OCR REAL (Tesseract) lendo imagem: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_001.png
+[2025-12-17 08:07:56] [DEBUG] Executando: "".\tesseract\tesseract.exe" "C:\Users\Ô_Ô\Downloads\simulador-hidrometro\medicoes_hidrometros\leitura_001.png" "C:\temp_ocr\saida" --tessdata-dir ".\tesseract\tessdata" -l eng --psm 7 -c tessedit_char_whitelist=0123456789."
+[2025-12-17 08:07:56] [ERROR] Tesseract nao conseguiu ler a imagem diretamente.
+[2025-12-17 08:07:56] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 08:07:56] [INFO] Imagem detectada: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_002.png
+[2025-12-17 08:07:56] [INFO] Iniciando leitura por imagem para SHA ID: 2
+[2025-12-17 08:07:56] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 08:07:56] [INFO] HidrometroParser avaliando imagem: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_002.png
+[2025-12-17 08:07:56] [INFO] OCR REAL (Tesseract) lendo imagem: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_002.png
+[2025-12-17 08:07:56] [DEBUG] Executando: "".\tesseract\tesseract.exe" "C:\Users\Ô_Ô\Downloads\simulador-hidrometro\medicoes_hidrometros\leitura_002.png" "C:\temp_ocr\saida" --tessdata-dir ".\tesseract\tessdata" -l eng --psm 7 -c tessedit_char_whitelist=0123456789."
+[2025-12-17 08:07:56] [ERROR] Tesseract nao conseguiu ler a imagem diretamente.
+[2025-12-17 08:07:56] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 08:07:56] [INFO] Fachada PMSHA finalizada
+[2025-12-17 08:08:39] [INFO] Fachada PMSHA inicializada
+[2025-12-17 08:08:39] [INFO] Criando novo usuario/conta
+[2025-12-17 08:08:39] [INFO] Consultando usuario ID: 1
+[2025-12-17 08:08:39] [INFO] Definindo limite de alerta para usuario ID: 1 | Limite: 150.000000
+[2025-12-17 08:08:39] [INFO] Monitorando diretorio do SHA ID: 1
+[2025-12-17 08:08:39] [INFO] Imagem detectada: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_001.png
+[2025-12-17 08:08:39] [INFO] Iniciando leitura por imagem para SHA ID: 1
+[2025-12-17 08:08:39] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 08:08:39] [INFO] HidrometroParser avaliando imagem: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_001.png
+[2025-12-17 08:08:39] [INFO] OCR REAL (Tesseract) via Buffer: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_001.png
+[2025-12-17 08:08:39] [ERROR] C++ nao conseguiu abrir a imagem: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_001.png
+[2025-12-17 08:08:39] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 08:08:39] [INFO] Imagem detectada: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_002.png
+[2025-12-17 08:08:39] [INFO] Iniciando leitura por imagem para SHA ID: 1
+[2025-12-17 08:08:39] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 08:08:39] [INFO] HidrometroParser avaliando imagem: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_002.png
+[2025-12-17 08:08:39] [INFO] OCR REAL (Tesseract) via Buffer: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_002.png
+[2025-12-17 08:08:39] [ERROR] C++ nao conseguiu abrir a imagem: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_002.png
+[2025-12-17 08:08:39] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 08:08:39] [INFO] Monitorando diretorio do SHA ID: 2
+[2025-12-17 08:08:39] [INFO] Imagem detectada: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_001.png
+[2025-12-17 08:08:39] [INFO] Iniciando leitura por imagem para SHA ID: 2
+[2025-12-17 08:08:39] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 08:08:39] [INFO] HidrometroParser avaliando imagem: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_001.png
+[2025-12-17 08:08:39] [INFO] OCR REAL (Tesseract) via Buffer: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_001.png
+[2025-12-17 08:08:39] [ERROR] C++ nao conseguiu abrir a imagem: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_001.png
+[2025-12-17 08:08:39] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 08:08:39] [INFO] Imagem detectada: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_002.png
+[2025-12-17 08:08:39] [INFO] Iniciando leitura por imagem para SHA ID: 2
+[2025-12-17 08:08:39] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 08:08:39] [INFO] HidrometroParser avaliando imagem: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_002.png
+[2025-12-17 08:08:39] [INFO] OCR REAL (Tesseract) via Buffer: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_002.png
+[2025-12-17 08:08:39] [ERROR] C++ nao conseguiu abrir a imagem: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_002.png
+[2025-12-17 08:08:39] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 08:08:39] [INFO] Fachada PMSHA finalizada
+[2025-12-17 08:09:15] [INFO] Fachada PMSHA inicializada
+[2025-12-17 08:09:15] [INFO] Criando novo usuario/conta
+[2025-12-17 08:09:15] [INFO] Consultando usuario ID: 1
+[2025-12-17 08:09:15] [INFO] Definindo limite de alerta para usuario ID: 1 | Limite: 150.000000
+[2025-12-17 08:09:15] [INFO] Monitorando diretorio do SHA ID: 1
+[2025-12-17 08:09:15] [INFO] Imagem detectada: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_001.png
+[2025-12-17 08:09:15] [INFO] Iniciando leitura por imagem para SHA ID: 1
+[2025-12-17 08:09:15] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 08:09:15] [INFO] HidrometroParser avaliando imagem: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_001.png
+[2025-12-17 08:09:15] [INFO] OCR REAL (Tesseract) via Buffer: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_001.png
+[2025-12-17 08:09:15] [ERROR] C++ nao conseguiu abrir a imagem: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_001.png
+[2025-12-17 08:09:15] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 08:09:15] [INFO] Imagem detectada: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_002.png
+[2025-12-17 08:09:15] [INFO] Iniciando leitura por imagem para SHA ID: 1
+[2025-12-17 08:09:15] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 08:09:15] [INFO] HidrometroParser avaliando imagem: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_002.png
+[2025-12-17 08:09:15] [INFO] OCR REAL (Tesseract) via Buffer: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_002.png
+[2025-12-17 08:09:15] [ERROR] C++ nao conseguiu abrir a imagem: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_002.png
+[2025-12-17 08:09:15] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 08:09:15] [INFO] Monitorando diretorio do SHA ID: 2
+[2025-12-17 08:09:15] [INFO] Imagem detectada: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_001.png
+[2025-12-17 08:09:15] [INFO] Iniciando leitura por imagem para SHA ID: 2
+[2025-12-17 08:09:15] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 08:09:15] [INFO] HidrometroParser avaliando imagem: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_001.png
+[2025-12-17 08:09:15] [INFO] OCR REAL (Tesseract) via Buffer: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_001.png
+[2025-12-17 08:09:15] [ERROR] C++ nao conseguiu abrir a imagem: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_001.png
+[2025-12-17 08:09:15] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 08:09:15] [INFO] Imagem detectada: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_002.png
+[2025-12-17 08:09:15] [INFO] Iniciando leitura por imagem para SHA ID: 2
+[2025-12-17 08:09:15] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 08:09:15] [INFO] HidrometroParser avaliando imagem: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_002.png
+[2025-12-17 08:09:15] [INFO] OCR REAL (Tesseract) via Buffer: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_002.png
+[2025-12-17 08:09:15] [ERROR] C++ nao conseguiu abrir a imagem: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_002.png
+[2025-12-17 08:09:15] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 08:09:15] [INFO] Fachada PMSHA finalizada
+[2025-12-17 08:10:37] [INFO] Fachada PMSHA inicializada
+[2025-12-17 08:10:37] [INFO] Criando novo usuario/conta
+[2025-12-17 08:10:37] [INFO] Consultando usuario ID: 1
+[2025-12-17 08:10:37] [INFO] Definindo limite de alerta para usuario ID: 1 | Limite: 150.000000
+[2025-12-17 08:10:37] [INFO] Monitorando diretorio do SHA ID: 1
+[2025-12-17 08:10:37] [INFO] Imagem detectada: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_001.png
+[2025-12-17 08:10:37] [INFO] Iniciando leitura por imagem para SHA ID: 1
+[2025-12-17 08:10:37] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 08:10:37] [INFO] HidrometroParser avaliando imagem: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_001.png
+[2025-12-17 08:10:37] [INFO] OCR em caminho neutro: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_001.png
+[2025-12-17 08:10:37] [ERROR] Falha no Tesseract. Verifique se a pasta 'tesseract' esta no local correto.
+[2025-12-17 08:10:37] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 08:10:37] [INFO] Imagem detectada: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_002.png
+[2025-12-17 08:10:37] [INFO] Iniciando leitura por imagem para SHA ID: 1
+[2025-12-17 08:10:37] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 08:10:37] [INFO] HidrometroParser avaliando imagem: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_002.png
+[2025-12-17 08:10:37] [INFO] OCR em caminho neutro: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_002.png
+[2025-12-17 08:10:37] [ERROR] Falha no Tesseract. Verifique se a pasta 'tesseract' esta no local correto.
+[2025-12-17 08:10:37] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 08:10:37] [INFO] Monitorando diretorio do SHA ID: 2
+[2025-12-17 08:10:37] [INFO] Imagem detectada: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_001.png
+[2025-12-17 08:10:37] [INFO] Iniciando leitura por imagem para SHA ID: 2
+[2025-12-17 08:10:37] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 08:10:37] [INFO] HidrometroParser avaliando imagem: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_001.png
+[2025-12-17 08:10:37] [INFO] OCR em caminho neutro: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_001.png
+[2025-12-17 08:10:38] [ERROR] Falha no Tesseract. Verifique se a pasta 'tesseract' esta no local correto.
+[2025-12-17 08:10:38] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 08:10:38] [INFO] Imagem detectada: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_002.png
+[2025-12-17 08:10:38] [INFO] Iniciando leitura por imagem para SHA ID: 2
+[2025-12-17 08:10:38] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 08:10:38] [INFO] HidrometroParser avaliando imagem: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_002.png
+[2025-12-17 08:10:38] [INFO] OCR em caminho neutro: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_002.png
+[2025-12-17 08:10:38] [ERROR] Falha no Tesseract. Verifique se a pasta 'tesseract' esta no local correto.
+[2025-12-17 08:10:38] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 08:10:38] [INFO] Fachada PMSHA finalizada
+[2025-12-17 08:14:59] [INFO] Fachada PMSHA inicializada
+[2025-12-17 08:14:59] [INFO] Criando novo usuario/conta
+[2025-12-17 08:14:59] [INFO] Consultando usuario ID: 1
+[2025-12-17 08:14:59] [INFO] Definindo limite de alerta para usuario ID: 1 | Limite: 150.000000
+[2025-12-17 08:14:59] [INFO] Monitorando diretorio do SHA ID: 1
+[2025-12-17 08:14:59] [INFO] Imagem detectada: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_001.png
+[2025-12-17 08:14:59] [INFO] Iniciando leitura por imagem para SHA ID: 1
+[2025-12-17 08:14:59] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 08:14:59] [INFO] HidrometroParser avaliando imagem: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_001.png
+[2025-12-17 08:14:59] [INFO] Iniciando OCR em local limpo: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_001.png
+[2025-12-17 08:14:59] [DEBUG] Executando: ".\tesseract\tesseract.exe" "C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_001.png" "C:\temp_ocr\saida" --tessdata-dir ".\tesseract\tessdata" -l eng --psm 7 -c tessedit_char_whitelist=0123456789.
+[2025-12-17 08:14:59] [ERROR] Tesseract falhou. Verifique se a imagem existe em: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_001.png
+[2025-12-17 08:14:59] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 08:14:59] [INFO] Imagem detectada: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_002.png
+[2025-12-17 08:14:59] [INFO] Iniciando leitura por imagem para SHA ID: 1
+[2025-12-17 08:14:59] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 08:14:59] [INFO] HidrometroParser avaliando imagem: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_002.png
+[2025-12-17 08:14:59] [INFO] Iniciando OCR em local limpo: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_002.png
+[2025-12-17 08:14:59] [DEBUG] Executando: ".\tesseract\tesseract.exe" "C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_002.png" "C:\temp_ocr\saida" --tessdata-dir ".\tesseract\tessdata" -l eng --psm 7 -c tessedit_char_whitelist=0123456789.
+[2025-12-17 08:14:59] [ERROR] Tesseract falhou. Verifique se a imagem existe em: C:/Users/Ô_Ô/Downloads/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_002.png
+[2025-12-17 08:14:59] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 08:14:59] [INFO] Monitorando diretorio do SHA ID: 2
+[2025-12-17 08:14:59] [INFO] Imagem detectada: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_001.png
+[2025-12-17 08:14:59] [INFO] Iniciando leitura por imagem para SHA ID: 2
+[2025-12-17 08:14:59] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 08:14:59] [INFO] HidrometroParser avaliando imagem: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_001.png
+[2025-12-17 08:14:59] [INFO] Iniciando OCR em local limpo: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_001.png
+[2025-12-17 08:14:59] [DEBUG] Executando: ".\tesseract\tesseract.exe" "C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_001.png" "C:\temp_ocr\saida" --tessdata-dir ".\tesseract\tessdata" -l eng --psm 7 -c tessedit_char_whitelist=0123456789.
+[2025-12-17 08:14:59] [ERROR] Tesseract falhou. Verifique se a imagem existe em: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_001.png
+[2025-12-17 08:14:59] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 08:14:59] [INFO] Imagem detectada: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_002.png
+[2025-12-17 08:14:59] [INFO] Iniciando leitura por imagem para SHA ID: 2
+[2025-12-17 08:14:59] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 08:14:59] [INFO] HidrometroParser avaliando imagem: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_002.png
+[2025-12-17 08:14:59] [INFO] Iniciando OCR em local limpo: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_002.png
+[2025-12-17 08:14:59] [DEBUG] Executando: ".\tesseract\tesseract.exe" "C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_002.png" "C:\temp_ocr\saida" --tessdata-dir ".\tesseract\tessdata" -l eng --psm 7 -c tessedit_char_whitelist=0123456789.
+[2025-12-17 08:14:59] [ERROR] Tesseract falhou. Verifique se a imagem existe em: C:/Users/Ô_Ô/Downloads/simulador-hidrometro/medicoes_hidrometros/leitura_002.png
+[2025-12-17 08:14:59] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 08:14:59] [INFO] Fachada PMSHA finalizada
+[2025-12-17 08:41:08] [INFO] Fachada PMSHA inicializada
+[2025-12-17 08:41:08] [INFO] Criando novo usuario/conta
+[2025-12-17 08:41:08] [INFO] Consultando usuario ID: 1
+[2025-12-17 08:41:08] [INFO] Definindo limite de alerta para usuario ID: 1 | Limite: 150.000000
+[2025-12-17 08:41:08] [INFO] Monitorando diretorio do SHA ID: 1
+[2025-12-17 08:41:08] [INFO] Imagem detectada: C:/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_001.png
+[2025-12-17 08:41:08] [INFO] Iniciando leitura por imagem para SHA ID: 1
+[2025-12-17 08:41:08] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 08:41:08] [INFO] HidrometroParser avaliando imagem: C:/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_001.png
+[2025-12-17 08:41:09] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 08:41:09] [INFO] Imagem detectada: C:/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_002.png
+[2025-12-17 08:41:09] [INFO] Iniciando leitura por imagem para SHA ID: 1
+[2025-12-17 08:41:09] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 08:41:09] [INFO] HidrometroParser avaliando imagem: C:/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/leitura_002.png
+[2025-12-17 08:41:09] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 08:41:09] [INFO] Monitorando diretorio do SHA ID: 2
+[2025-12-17 08:41:09] [INFO] Imagem detectada: C:/simulador-hidrometro/medicoes_hidrometros/leitura_001.png
+[2025-12-17 08:41:09] [INFO] Iniciando leitura por imagem para SHA ID: 2
+[2025-12-17 08:41:09] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 08:41:09] [INFO] HidrometroParser avaliando imagem: C:/simulador-hidrometro/medicoes_hidrometros/leitura_001.png
+[2025-12-17 08:41:09] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 08:41:09] [INFO] Imagem detectada: C:/simulador-hidrometro/medicoes_hidrometros/leitura_002.png
+[2025-12-17 08:41:09] [INFO] Iniciando leitura por imagem para SHA ID: 2
+[2025-12-17 08:41:09] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 08:41:09] [INFO] HidrometroParser avaliando imagem: C:/simulador-hidrometro/medicoes_hidrometros/leitura_002.png
+[2025-12-17 08:41:09] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 08:41:09] [INFO] Fachada PMSHA finalizada
+[2025-12-17 09:03:29] [INFO] Fachada PMSHA inicializada
+[2025-12-17 09:03:29] [INFO] Criando novo usuario/conta
+[2025-12-17 09:03:29] [INFO] Monitorando diretorio do SHA ID: 1
+[2025-12-17 09:03:29] [INFO] Imagem detectada: C:/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/hidrometrofinal_0.00.png/leitura_001.png
+[2025-12-17 09:03:29] [INFO] Iniciando leitura por imagem para SHA ID: 1
+[2025-12-17 09:03:29] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 09:03:29] [INFO] HidrometroParser avaliando imagem: C:/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/hidrometrofinal_0.00.png/leitura_001.png
+[2025-12-17 09:03:29] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 09:03:29] [INFO] Imagem detectada: C:/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/hidrometrofinal_0.00.png/leitura_002.png
+[2025-12-17 09:03:29] [INFO] Iniciando leitura por imagem para SHA ID: 1
+[2025-12-17 09:03:29] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 09:03:29] [INFO] HidrometroParser avaliando imagem: C:/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/hidrometrofinal_0.00.png/leitura_002.png
+[2025-12-17 09:03:29] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 09:03:29] [INFO] Monitorando diretorio do SHA ID: 1
+[2025-12-17 09:03:29] [INFO] Imagem detectada: C:/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/hidrometrofinal_0.01.png/leitura_001.png
+[2025-12-17 09:03:29] [INFO] Iniciando leitura por imagem para SHA ID: 1
+[2025-12-17 09:03:29] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 09:03:29] [INFO] HidrometroParser avaliando imagem: C:/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/hidrometrofinal_0.01.png/leitura_001.png
+[2025-12-17 09:03:30] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 09:03:30] [INFO] Imagem detectada: C:/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/hidrometrofinal_0.01.png/leitura_002.png
+[2025-12-17 09:03:30] [INFO] Iniciando leitura por imagem para SHA ID: 1
+[2025-12-17 09:03:30] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 09:03:30] [INFO] HidrometroParser avaliando imagem: C:/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/hidrometrofinal_0.01.png/leitura_002.png
+[2025-12-17 09:03:30] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 09:03:30] [INFO] Monitorando diretorio do SHA ID: 1
+[2025-12-17 09:03:30] [INFO] Imagem detectada: C:/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/hidrometrofinal_0.02.png/leitura_001.png
+[2025-12-17 09:03:30] [INFO] Iniciando leitura por imagem para SHA ID: 1
+[2025-12-17 09:03:30] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 09:03:30] [INFO] HidrometroParser avaliando imagem: C:/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/hidrometrofinal_0.02.png/leitura_001.png
+[2025-12-17 09:03:30] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 09:03:30] [INFO] Imagem detectada: C:/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/hidrometrofinal_0.02.png/leitura_002.png
+[2025-12-17 09:03:30] [INFO] Iniciando leitura por imagem para SHA ID: 1
+[2025-12-17 09:03:30] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 09:03:30] [INFO] HidrometroParser avaliando imagem: C:/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/hidrometrofinal_0.02.png/leitura_002.png
+[2025-12-17 09:03:30] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 09:03:30] [INFO] Monitorando diretorio do SHA ID: 1
+[2025-12-17 09:03:30] [INFO] Imagem detectada: C:/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/hidrometrofinal_0.03.png/leitura_001.png
+[2025-12-17 09:03:30] [INFO] Iniciando leitura por imagem para SHA ID: 1
+[2025-12-17 09:03:30] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 09:03:30] [INFO] HidrometroParser avaliando imagem: C:/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/hidrometrofinal_0.03.png/leitura_001.png
+[2025-12-17 09:03:30] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 09:03:30] [INFO] Imagem detectada: C:/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/hidrometrofinal_0.03.png/leitura_002.png
+[2025-12-17 09:03:30] [INFO] Iniciando leitura por imagem para SHA ID: 1
+[2025-12-17 09:03:30] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 09:03:30] [INFO] HidrometroParser avaliando imagem: C:/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/hidrometrofinal_0.03.png/leitura_002.png
+[2025-12-17 09:03:30] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 09:03:30] [INFO] Monitorando diretorio do SHA ID: 1
+[2025-12-17 09:03:30] [INFO] Imagem detectada: C:/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/hidrometrofinal_0.04.png/leitura_001.png
+[2025-12-17 09:03:30] [INFO] Iniciando leitura por imagem para SHA ID: 1
+[2025-12-17 09:03:30] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 09:03:30] [INFO] HidrometroParser avaliando imagem: C:/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/hidrometrofinal_0.04.png/leitura_001.png
+[2025-12-17 09:03:30] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 09:03:30] [INFO] Imagem detectada: C:/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/hidrometrofinal_0.04.png/leitura_002.png
+[2025-12-17 09:03:30] [INFO] Iniciando leitura por imagem para SHA ID: 1
+[2025-12-17 09:03:30] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 09:03:30] [INFO] HidrometroParser avaliando imagem: C:/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/hidrometrofinal_0.04.png/leitura_002.png
+[2025-12-17 09:03:31] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 09:03:31] [INFO] Monitorando diretorio do SHA ID: 1
+[2025-12-17 09:03:31] [INFO] Imagem detectada: C:/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/hidrometrofinal_0.05.png/leitura_001.png
+[2025-12-17 09:03:31] [INFO] Iniciando leitura por imagem para SHA ID: 1
+[2025-12-17 09:03:31] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 09:03:31] [INFO] HidrometroParser avaliando imagem: C:/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/hidrometrofinal_0.05.png/leitura_001.png
+[2025-12-17 09:03:31] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 09:03:31] [INFO] Imagem detectada: C:/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/hidrometrofinal_0.05.png/leitura_002.png
+[2025-12-17 09:03:31] [INFO] Iniciando leitura por imagem para SHA ID: 1
+[2025-12-17 09:03:31] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 09:03:31] [INFO] HidrometroParser avaliando imagem: C:/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/hidrometrofinal_0.05.png/leitura_002.png
+[2025-12-17 09:03:31] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 09:03:31] [INFO] Monitorando diretorio do SHA ID: 1
+[2025-12-17 09:03:31] [INFO] Imagem detectada: C:/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/hidrometrofinal_0.06.png/leitura_001.png
+[2025-12-17 09:03:31] [INFO] Iniciando leitura por imagem para SHA ID: 1
+[2025-12-17 09:03:31] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 09:03:31] [INFO] HidrometroParser avaliando imagem: C:/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/hidrometrofinal_0.06.png/leitura_001.png
+[2025-12-17 09:03:31] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 09:03:31] [INFO] Imagem detectada: C:/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/hidrometrofinal_0.06.png/leitura_002.png
+[2025-12-17 09:03:31] [INFO] Iniciando leitura por imagem para SHA ID: 1
+[2025-12-17 09:03:31] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 09:03:31] [INFO] HidrometroParser avaliando imagem: C:/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/hidrometrofinal_0.06.png/leitura_002.png
+[2025-12-17 09:03:31] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 09:03:31] [INFO] Monitorando diretorio do SHA ID: 1
+[2025-12-17 09:03:31] [INFO] Imagem detectada: C:/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/hidrometrofinal_0.07.png/leitura_001.png
+[2025-12-17 09:03:31] [INFO] Iniciando leitura por imagem para SHA ID: 1
+[2025-12-17 09:03:31] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 09:03:31] [INFO] HidrometroParser avaliando imagem: C:/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/hidrometrofinal_0.07.png/leitura_001.png
+[2025-12-17 09:03:31] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 09:03:31] [INFO] Imagem detectada: C:/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/hidrometrofinal_0.07.png/leitura_002.png
+[2025-12-17 09:03:31] [INFO] Iniciando leitura por imagem para SHA ID: 1
+[2025-12-17 09:03:31] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 09:03:31] [INFO] HidrometroParser avaliando imagem: C:/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/hidrometrofinal_0.07.png/leitura_002.png
+[2025-12-17 09:03:31] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 09:03:31] [INFO] Monitorando diretorio do SHA ID: 2
+[2025-12-17 09:03:31] [INFO] Imagem detectada: C:/simulador-hidrometro/medicoes_hidrometros/hidrometro_1.png/leitura_001.png
+[2025-12-17 09:03:31] [INFO] Iniciando leitura por imagem para SHA ID: 2
+[2025-12-17 09:03:31] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 09:03:31] [INFO] HidrometroParser avaliando imagem: C:/simulador-hidrometro/medicoes_hidrometros/hidrometro_1.png/leitura_001.png
+[2025-12-17 09:03:32] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 09:03:32] [INFO] Imagem detectada: C:/simulador-hidrometro/medicoes_hidrometros/hidrometro_1.png/leitura_002.png
+[2025-12-17 09:03:32] [INFO] Iniciando leitura por imagem para SHA ID: 2
+[2025-12-17 09:03:32] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 09:03:32] [INFO] HidrometroParser avaliando imagem: C:/simulador-hidrometro/medicoes_hidrometros/hidrometro_1.png/leitura_002.png
+[2025-12-17 09:03:32] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 09:03:32] [INFO] Monitorando diretorio do SHA ID: 2
+[2025-12-17 09:03:32] [INFO] Imagem detectada: C:/simulador-hidrometro/medicoes_hidrometros/hidrometro_2.png/leitura_001.png
+[2025-12-17 09:03:32] [INFO] Iniciando leitura por imagem para SHA ID: 2
+[2025-12-17 09:03:32] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 09:03:32] [INFO] HidrometroParser avaliando imagem: C:/simulador-hidrometro/medicoes_hidrometros/hidrometro_2.png/leitura_001.png
+[2025-12-17 09:03:32] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 09:03:32] [INFO] Imagem detectada: C:/simulador-hidrometro/medicoes_hidrometros/hidrometro_2.png/leitura_002.png
+[2025-12-17 09:03:32] [INFO] Iniciando leitura por imagem para SHA ID: 2
+[2025-12-17 09:03:32] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 09:03:32] [INFO] HidrometroParser avaliando imagem: C:/simulador-hidrometro/medicoes_hidrometros/hidrometro_2.png/leitura_002.png
+[2025-12-17 09:03:32] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 09:03:32] [INFO] Monitorando diretorio do SHA ID: 2
+[2025-12-17 09:03:32] [INFO] Imagem detectada: C:/simulador-hidrometro/medicoes_hidrometros/hidrometro_3.png/leitura_001.png
+[2025-12-17 09:03:32] [INFO] Iniciando leitura por imagem para SHA ID: 2
+[2025-12-17 09:03:32] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 09:03:32] [INFO] HidrometroParser avaliando imagem: C:/simulador-hidrometro/medicoes_hidrometros/hidrometro_3.png/leitura_001.png
+[2025-12-17 09:03:32] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 09:03:32] [INFO] Imagem detectada: C:/simulador-hidrometro/medicoes_hidrometros/hidrometro_3.png/leitura_002.png
+[2025-12-17 09:03:32] [INFO] Iniciando leitura por imagem para SHA ID: 2
+[2025-12-17 09:03:32] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 09:03:32] [INFO] HidrometroParser avaliando imagem: C:/simulador-hidrometro/medicoes_hidrometros/hidrometro_3.png/leitura_002.png
+[2025-12-17 09:03:32] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 09:03:32] [INFO] Fachada PMSHA finalizada
+[2025-12-17 09:09:39] [INFO] Fachada PMSHA inicializada
+[2025-12-17 09:09:39] [INFO] Criando novo usuario/conta
+[2025-12-17 09:09:39] [INFO] Fachada PMSHA finalizada
+[2025-12-17 09:10:58] [INFO] Fachada PMSHA inicializada
+[2025-12-17 09:10:58] [INFO] Criando novo usuario/conta
+[2025-12-17 09:10:58] [INFO] Monitorando diretorio do SHA ID: 1
+[2025-12-17 09:10:58] [INFO] Imagem detectada: c:/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/hidrometrofinal_0.00.png/leitura_001.png
+[2025-12-17 09:10:58] [INFO] Iniciando leitura por imagem para SHA ID: 1
+[2025-12-17 09:10:58] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 09:10:58] [INFO] HidrometroParser avaliando imagem: c:/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/hidrometrofinal_0.00.png/leitura_001.png
+[2025-12-17 09:10:58] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 09:10:58] [INFO] Imagem detectada: c:/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/hidrometrofinal_0.00.png/leitura_002.png
+[2025-12-17 09:10:58] [INFO] Iniciando leitura por imagem para SHA ID: 1
+[2025-12-17 09:10:58] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 09:10:58] [INFO] HidrometroParser avaliando imagem: c:/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/hidrometrofinal_0.00.png/leitura_002.png
+[2025-12-17 09:10:58] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 09:10:58] [INFO] Monitorando diretorio do SHA ID: 1
+[2025-12-17 09:10:58] [INFO] Imagem detectada: c:/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/hidrometrofinal_0.01.png/leitura_001.png
+[2025-12-17 09:10:58] [INFO] Iniciando leitura por imagem para SHA ID: 1
+[2025-12-17 09:10:58] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 09:10:58] [INFO] HidrometroParser avaliando imagem: c:/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/hidrometrofinal_0.01.png/leitura_001.png
+[2025-12-17 09:10:58] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 09:10:58] [INFO] Imagem detectada: c:/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/hidrometrofinal_0.01.png/leitura_002.png
+[2025-12-17 09:10:58] [INFO] Iniciando leitura por imagem para SHA ID: 1
+[2025-12-17 09:10:58] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 09:10:58] [INFO] HidrometroParser avaliando imagem: c:/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/hidrometrofinal_0.01.png/leitura_002.png
+[2025-12-17 09:10:58] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 09:10:58] [INFO] Monitorando diretorio do SHA ID: 1
+[2025-12-17 09:10:58] [INFO] Imagem detectada: c:/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/hidrometrofinal_0.02.png/leitura_001.png
+[2025-12-17 09:10:58] [INFO] Iniciando leitura por imagem para SHA ID: 1
+[2025-12-17 09:10:58] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 09:10:58] [INFO] HidrometroParser avaliando imagem: c:/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/hidrometrofinal_0.02.png/leitura_001.png
+[2025-12-17 09:10:58] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 09:10:58] [INFO] Imagem detectada: c:/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/hidrometrofinal_0.02.png/leitura_002.png
+[2025-12-17 09:10:58] [INFO] Iniciando leitura por imagem para SHA ID: 1
+[2025-12-17 09:10:58] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 09:10:58] [INFO] HidrometroParser avaliando imagem: c:/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/hidrometrofinal_0.02.png/leitura_002.png
+[2025-12-17 09:10:58] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 09:10:58] [INFO] Monitorando diretorio do SHA ID: 1
+[2025-12-17 09:10:58] [INFO] Imagem detectada: c:/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/hidrometrofinal_0.03.png/leitura_001.png
+[2025-12-17 09:10:58] [INFO] Iniciando leitura por imagem para SHA ID: 1
+[2025-12-17 09:10:58] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 09:10:58] [INFO] HidrometroParser avaliando imagem: c:/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/hidrometrofinal_0.03.png/leitura_001.png
+[2025-12-17 09:10:59] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 09:10:59] [INFO] Imagem detectada: c:/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/hidrometrofinal_0.03.png/leitura_002.png
+[2025-12-17 09:10:59] [INFO] Iniciando leitura por imagem para SHA ID: 1
+[2025-12-17 09:10:59] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 09:10:59] [INFO] HidrometroParser avaliando imagem: c:/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/hidrometrofinal_0.03.png/leitura_002.png
+[2025-12-17 09:10:59] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 09:10:59] [INFO] Monitorando diretorio do SHA ID: 1
+[2025-12-17 09:10:59] [INFO] Imagem detectada: c:/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/hidrometrofinal_0.04.png/leitura_001.png
+[2025-12-17 09:10:59] [INFO] Iniciando leitura por imagem para SHA ID: 1
+[2025-12-17 09:10:59] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 09:10:59] [INFO] HidrometroParser avaliando imagem: c:/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/hidrometrofinal_0.04.png/leitura_001.png
+[2025-12-17 09:10:59] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 09:10:59] [INFO] Imagem detectada: c:/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/hidrometrofinal_0.04.png/leitura_002.png
+[2025-12-17 09:10:59] [INFO] Iniciando leitura por imagem para SHA ID: 1
+[2025-12-17 09:10:59] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 09:10:59] [INFO] HidrometroParser avaliando imagem: c:/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/hidrometrofinal_0.04.png/leitura_002.png
+[2025-12-17 09:10:59] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 09:10:59] [INFO] Monitorando diretorio do SHA ID: 1
+[2025-12-17 09:10:59] [INFO] Imagem detectada: c:/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/hidrometrofinal_0.05.png/leitura_001.png
+[2025-12-17 09:10:59] [INFO] Iniciando leitura por imagem para SHA ID: 1
+[2025-12-17 09:10:59] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 09:10:59] [INFO] HidrometroParser avaliando imagem: c:/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/hidrometrofinal_0.05.png/leitura_001.png
+[2025-12-17 09:10:59] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 09:10:59] [INFO] Imagem detectada: c:/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/hidrometrofinal_0.05.png/leitura_002.png
+[2025-12-17 09:10:59] [INFO] Iniciando leitura por imagem para SHA ID: 1
+[2025-12-17 09:10:59] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 09:10:59] [INFO] HidrometroParser avaliando imagem: c:/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/hidrometrofinal_0.05.png/leitura_002.png
+[2025-12-17 09:10:59] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 09:10:59] [INFO] Monitorando diretorio do SHA ID: 1
+[2025-12-17 09:10:59] [INFO] Imagem detectada: c:/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/hidrometrofinal_0.06.png/leitura_001.png
+[2025-12-17 09:10:59] [INFO] Iniciando leitura por imagem para SHA ID: 1
+[2025-12-17 09:10:59] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 09:10:59] [INFO] HidrometroParser avaliando imagem: c:/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/hidrometrofinal_0.06.png/leitura_001.png
+[2025-12-17 09:10:59] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 09:10:59] [INFO] Imagem detectada: c:/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/hidrometrofinal_0.06.png/leitura_002.png
+[2025-12-17 09:10:59] [INFO] Iniciando leitura por imagem para SHA ID: 1
+[2025-12-17 09:10:59] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 09:10:59] [INFO] HidrometroParser avaliando imagem: c:/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/hidrometrofinal_0.06.png/leitura_002.png
+[2025-12-17 09:11:00] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 09:11:00] [INFO] Monitorando diretorio do SHA ID: 1
+[2025-12-17 09:11:00] [INFO] Imagem detectada: c:/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/hidrometrofinal_0.07.png/leitura_001.png
+[2025-12-17 09:11:00] [INFO] Iniciando leitura por imagem para SHA ID: 1
+[2025-12-17 09:11:00] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 09:11:00] [INFO] HidrometroParser avaliando imagem: c:/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/hidrometrofinal_0.07.png/leitura_001.png
+[2025-12-17 09:11:00] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 09:11:00] [INFO] Imagem detectada: c:/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/hidrometrofinal_0.07.png/leitura_002.png
+[2025-12-17 09:11:00] [INFO] Iniciando leitura por imagem para SHA ID: 1
+[2025-12-17 09:11:00] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 09:11:00] [INFO] HidrometroParser avaliando imagem: c:/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/hidrometrofinal_0.07.png/leitura_002.png
+[2025-12-17 09:11:00] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 09:11:00] [INFO] Monitorando diretorio do SHA ID: 2
+[2025-12-17 09:11:00] [INFO] Imagem detectada: c:/simulador-hidrometro/medicoes_hidrometros/hidrometro_1.png/leitura_001.png
+[2025-12-17 09:11:00] [INFO] Iniciando leitura por imagem para SHA ID: 2
+[2025-12-17 09:11:00] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 09:11:00] [INFO] HidrometroParser avaliando imagem: c:/simulador-hidrometro/medicoes_hidrometros/hidrometro_1.png/leitura_001.png
+[2025-12-17 09:11:00] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 09:11:00] [INFO] Imagem detectada: c:/simulador-hidrometro/medicoes_hidrometros/hidrometro_1.png/leitura_002.png
+[2025-12-17 09:11:00] [INFO] Iniciando leitura por imagem para SHA ID: 2
+[2025-12-17 09:11:00] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 09:11:00] [INFO] HidrometroParser avaliando imagem: c:/simulador-hidrometro/medicoes_hidrometros/hidrometro_1.png/leitura_002.png
+[2025-12-17 09:11:00] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 09:11:00] [INFO] Monitorando diretorio do SHA ID: 2
+[2025-12-17 09:11:00] [INFO] Imagem detectada: c:/simulador-hidrometro/medicoes_hidrometros/hidrometro_2.png/leitura_001.png
+[2025-12-17 09:11:00] [INFO] Iniciando leitura por imagem para SHA ID: 2
+[2025-12-17 09:11:00] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 09:11:00] [INFO] HidrometroParser avaliando imagem: c:/simulador-hidrometro/medicoes_hidrometros/hidrometro_2.png/leitura_001.png
+[2025-12-17 09:11:00] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 09:11:00] [INFO] Imagem detectada: c:/simulador-hidrometro/medicoes_hidrometros/hidrometro_2.png/leitura_002.png
+[2025-12-17 09:11:00] [INFO] Iniciando leitura por imagem para SHA ID: 2
+[2025-12-17 09:11:00] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 09:11:00] [INFO] HidrometroParser avaliando imagem: c:/simulador-hidrometro/medicoes_hidrometros/hidrometro_2.png/leitura_002.png
+[2025-12-17 09:11:00] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 09:11:00] [INFO] Monitorando diretorio do SHA ID: 2
+[2025-12-17 09:11:00] [INFO] Imagem detectada: c:/simulador-hidrometro/medicoes_hidrometros/hidrometro_3.png/leitura_001.png
+[2025-12-17 09:11:00] [INFO] Iniciando leitura por imagem para SHA ID: 2
+[2025-12-17 09:11:00] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 09:11:00] [INFO] HidrometroParser avaliando imagem: c:/simulador-hidrometro/medicoes_hidrometros/hidrometro_3.png/leitura_001.png
+[2025-12-17 09:11:01] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 09:11:01] [INFO] Imagem detectada: c:/simulador-hidrometro/medicoes_hidrometros/hidrometro_3.png/leitura_002.png
+[2025-12-17 09:11:01] [INFO] Iniciando leitura por imagem para SHA ID: 2
+[2025-12-17 09:11:01] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 09:11:01] [INFO] HidrometroParser avaliando imagem: c:/simulador-hidrometro/medicoes_hidrometros/hidrometro_3.png/leitura_002.png
+[2025-12-17 09:11:01] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 09:11:01] [INFO] Fachada PMSHA finalizada
+[2025-12-17 09:25:55] [INFO] Fachada PMSHA inicializada
+[2025-12-17 09:25:55] [INFO] Criando novo usuario/conta
+[2025-12-17 09:25:55] [INFO] Monitorando diretorio do SHA ID: 1
+[2025-12-17 09:25:55] [INFO] Imagem detectada: c:/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/hidrometrofinal_0.00.png/leitura_001.png
+[2025-12-17 09:25:55] [INFO] Iniciando leitura por imagem para SHA ID: 1
+[2025-12-17 09:25:55] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 09:25:55] [INFO] HidrometroParser avaliando imagem: c:/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/hidrometrofinal_0.00.png/leitura_001.png
+[2025-12-17 09:25:55] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 09:25:55] [INFO] Imagem detectada: c:/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/hidrometrofinal_0.00.png/leitura_002.png
+[2025-12-17 09:25:55] [INFO] Iniciando leitura por imagem para SHA ID: 1
+[2025-12-17 09:25:55] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 09:25:55] [INFO] HidrometroParser avaliando imagem: c:/simulador_hidrometro_ligia/projeto_hidrometro_pp/Medicoes_202311250003_5/hidrometrofinal_0.00.png/leitura_002.png
+[2025-12-17 09:25:56] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 09:25:56] [INFO] Monitorando diretorio do SHA ID: 2
+[2025-12-17 09:25:56] [INFO] Imagem detectada: c:/simulador-hidrometro/medicoes_hidrometros/hidrometro_1.png/leitura_001.png
+[2025-12-17 09:25:56] [INFO] Iniciando leitura por imagem para SHA ID: 2
+[2025-12-17 09:25:56] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 09:25:56] [INFO] HidrometroParser avaliando imagem: c:/simulador-hidrometro/medicoes_hidrometros/hidrometro_1.png/leitura_001.png
+[2025-12-17 09:25:56] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 09:25:56] [INFO] Imagem detectada: c:/simulador-hidrometro/medicoes_hidrometros/hidrometro_1.png/leitura_002.png
+[2025-12-17 09:25:56] [INFO] Iniciando leitura por imagem para SHA ID: 2
+[2025-12-17 09:25:56] [INFO] Inicializando OCR REAL (Tesseract)
+[2025-12-17 09:25:56] [INFO] HidrometroParser avaliando imagem: c:/simulador-hidrometro/medicoes_hidrometros/hidrometro_1.png/leitura_002.png
+[2025-12-17 09:25:56] [INFO] Leitura realizada com sucesso. Valor lido (m3): -1.000000
+[2025-12-17 09:25:56] [INFO] Fachada PMSHA finalizada

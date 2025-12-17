@@ -58,14 +58,7 @@ void FachadaPMSHA::registrarLeituraPorImagem(
 
     HidrometroParser parser;
 
-    if (!parser.aceita(caminhoImagem)) {
-        Logger::getInstance().error(
-            "Imagem nao aceita: " + caminhoImagem
-        );
-        return;
-    }
-
-    double valor = parser.lerValor(caminhoImagem);
+    double valor = parser.lerImagem(caminhoImagem);
 
     Logger::getInstance().info(
         "Leitura realizada com sucesso. Valor lido (m3): " +
@@ -82,12 +75,6 @@ void FachadaPMSHA::monitorarDiretorioSHA(
     Logger::getInstance().info(
         "Monitorando diretorio do SHA ID: " + std::to_string(idSHA)
     );
-
-    // 🔴 STUB DE INTEGRAÇÃO
-    // Em produção, isso será substituído por:
-    // - filesystem
-    // - watcher
-    // - OCR real
 
     std::vector<std::string> imagensSimuladas = {
         diretorio + "/leitura_001.png",

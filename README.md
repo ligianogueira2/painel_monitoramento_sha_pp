@@ -27,25 +27,38 @@
 
 ```
 painel_monitoramento_sha_pp/
-│
+painel_monitoramento_sha_pp/
 ├── include/
 │   ├── fachada/
+│   │   └── FachadaPMSHA.hpp       
 │   ├── dto/
+│   │   ├── UsuarioDto.hpp         
+│   │   └── LeituraDto.hpp
 │   ├── infra/
 │   │   ├── imagem/
+│   │   │   ├── HidrometroParser.hpp
+│   │   │   ├── ImagemReader.hpp    
+│   │   │   └── OCRService.hpp      
+│   │   ├── notificacao/
+│   │   │   ├── SNA_Manager.hpp     
+│   │   │   ├── NotificacaoTemplate.hpp
+│   │   │   └── EmailAdapter.hpp   
 │   │   └── logger/
-│   ├── sgu/
-│
+│   │       └── Logger.hpp          
+│   └── sgu/
+│       ├── SGU_Controller.hpp
+│       ├── UsuarioBuilder.hpp      
+│       └── UsuarioDAO.hpp          
 ├── src/
 │   ├── fachada/
 │   ├── infra/
-│   │   ├── imagem/
+│   │   ├── imagem/              
+│   │   ├── notificacao/
 │   │   └── logger/
-│   ├── sgu/
-│   
-├── main.cpp
-├── imagens
-└── README.md
+│   └── sgu/
+├── imagens/                        
+├── main.cpp                        
+└── README.md          
 ```
 
 <a href="https://imgbox.com/3tZuCnVg" target="_blank"><img src="https://images2.imgbox.com/42/88/3tZuCnVg_o.png" alt="image host" height="5px" width="900px"/></a>
