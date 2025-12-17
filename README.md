@@ -113,20 +113,20 @@ painel_monitoramento_sha_pp/
 
 <h2 id="padroes"> 🧱 Padrões de Projeto</h2>
 
-|            Padrão           | Localização no Projeto      | Benefício Prático                                         |
-| :-------------------------: | --------------------------- | --------------------------------------------------------- |
-|                             |  **Padrões Criacionais**    |                                                           |
-|          Singleton          | Logger.hpp                  | Ponto único de log para todo o sistema                    |
-|        Factory Method       | LeitorHidrometro.hpp        | Instanciação dinâmica do leitor correto conforme a imagem |
-|           Builder           | UsuarioBuilder.hpp          | Criação detalhada e segura de perfis de usuário no SGU    |
-|                             | **Padrões Estruturais**     |                                                           |
-|       Facade (Fachada)      | FachadaPMSHA.hpp            | Interface simplificada para o monitoramento central       |
-|     Adapter (Adaptador)     | EmailAdapter.hpp            | Isolar bibliotecas externas (como libcurl) do núcleo      |
-|          DAO / DTO          | UsuarioDAO.hpp / Pasta dto/ | Abstração da persistência e transporte seguro de dados    |
-|                             | **Padrões Comportamentais** |                                                           |
-|           Observer          | SNA_Manager / AlertaService | Reação automática ao consumo elevado detectado            |
-|           Strategy          | LeitorHidrometro.hpp        | Suporte a múltiplos modelos de hidrômetros (SHA)          |
-|       Template Method       | NotificacaoTemplate.hpp     | Padronização das mensagens de alerta enviadas             |
+| Padrão                      | Localização no Projeto      | Benefício Prático                                         |
+| --------------------------- | --------------------------- | --------------------------------------------------------- |
+| **Padrões Criacionais**     |                             |                                                           |
+| Singleton                   | Logger.hpp                  | Ponto único de log para todo o sistema                    |
+| Factory Method              | LeitorHidrometroFactory.hpp | Instanciação dinâmica do leitor correto conforme a imagem |
+| Builder                     | UsuarioBuilder.hpp          | Criação detalhada e segura de perfis de usuário no SGU    |
+| **Padrões Estruturais**     |                             |                                                           |
+| Facade (Fachada)            | FachadaPMSHA.hpp            | Interface simplificada para o monitoramento central       |
+| Adapter (Adaptador)         | EmailAdapter.hpp            | Isolar bibliotecas externas (como libcurl) do núcleo      |
+| DAO / DTO                   | UsuarioDAO.hpp / Pasta dto/ | Abstração da persistência e transporte seguro de dados    |
+| **Padrões Comportamentais** |                             |                                                           |
+| Observer                    | SNA_Manager / AlertaService | Reação automática ao consumo elevado detectado            |
+| Strategy                    | LeitorHidrometro.hpp        | Suporte a múltiplos modelos de hidrômetros (SHA)          |
+| Template Method             | NotificacaoTemplate.hpp     | Padronização das mensagens de alerta enviadas             |
 
 
 <a href="https://imgbox.com/3tZuCnVg" target="_blank"><img src="https://images2.imgbox.com/42/88/3tZuCnVg_o.png" alt="image host" height="5px" width="900px"/></a>
