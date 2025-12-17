@@ -19,10 +19,8 @@ private:
 
     std::ofstream logFile;
 
-    // Construtor privado (Singleton)
     Logger();
 
-    // Desabilita cópia
     Logger(const Logger&) = delete;
     Logger& operator=(const Logger&) = delete;
 
